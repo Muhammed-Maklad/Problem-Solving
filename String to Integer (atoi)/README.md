@@ -1,4 +1,7 @@
 # String to Integer (atoi)
+## Difficulty
+
+<span style="color:yellow">**Medium**</span>
 
 ## Problem Description
 
