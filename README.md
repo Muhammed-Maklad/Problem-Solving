@@ -25,8 +25,8 @@ This repository contains solutions to various algorithmic problems categorized b
 
 <div align="center">
   <h3>📊 Repository Statistics 📊</h3>
-  <p><b>Total Problems:</b> 4 | <b>Easy:</b> 2 | <b>Medium:</b> 2 | <b>Hard:</b> 0</p>
-  <p><a href="./statistics_dashboard.html"><b>➡️ Open Interactive Dashboard ⬅️</b></a></p>
+  <img src="./statistics_graph.svg" alt="Repository Statistics" width="600" height="300">
+  <p><a href="./statistics_dashboard.html"><b>➡️ Open Interactive Dashboard for Real-time Updates ⬅️</b></a></p>
 </div>
 
 ---
