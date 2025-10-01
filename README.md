@@ -8,15 +8,26 @@ This repository contains solutions to various algorithmic problems categorized b
 ## Index
 
 ### String Problems
-| Problem Name                | Difficulty |
-|-----------------------------|------------|
-| [Rotate String](./String/Rotate%20String/README.md) | Easy       |
-| [String to Integer (atoi)](./String%20to%20Integer%20(atoi)/README.md) | Medium     |
+| Problem Name                | Difficulty | Problem ID |
+|-----------------------------|------------|------------|
+| [Rotate String](./String/Rotate%20String/README.md) | Easy       | 796        |
+| [String to Integer (atoi)](./String%20to%20Integer%20(atoi)/README.md) | Medium     | 8          |
+| [Multiply Strings](./Multiply%20Strings/README.md) | Medium     | 43         |
 
 ### Array Problems
-| Problem Name                | Difficulty |
-|-----------------------------|------------|
-| [Remove Element](./Remove%20Element.py) | Easy       |
+| Problem Name                | Difficulty | Problem ID |
+|-----------------------------|------------|------------|
+| [Remove Element](./Remove%20Element.py) | Easy       | 27         |
+
+---
+
+## Statistics
+
+<div align="center">
+  <h3>📊 <a href="./statistics_dashboard.html">View Interactive Statistics Dashboard</a> 📊</h3>
+</div>
+
+![Problem Statistics](./statistics.svg)
 
 ---
 
