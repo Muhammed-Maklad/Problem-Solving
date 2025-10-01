@@ -24,10 +24,9 @@ This repository contains solutions to various algorithmic problems categorized b
 ## Statistics
 
 <div align="center">
-  <h3>📊 <a href="./statistics_dashboard.html">View Interactive Statistics Dashboard</a> 📊</h3>
+  <h3>📊 Repository Statistics 📊</h3>
+  <iframe src="./statistics_dashboard.html" width="100%" height="500px" frameborder="0"></iframe>
 </div>
-
-![Problem Statistics](./statistics.svg)
 
 ---
 
