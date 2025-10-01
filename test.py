@@ -1,9 +1,26 @@
-s = "a23aa"
-new_s = ""
-for x in range(len(s)):
-    if s[x].isdigit():
-        new_s += s[x]
-    else:
-        break
+def multiply(num1: str, num2: str) -> str:
+    # special case: لو أي واحد صفر
+    if num1 == "0" or num2 == "0":
+        return "0"
 
-print(0 if len(new_s) == 0 else new_s) 
+    m, n = len(num1), len(num2)
+    arr = [0] * (m + n)  # مصفوفة النتيجة
+
+    # نبدأ من آخر رقم → أول رقم
+    for i in range(m - 1, -1, -1):
+        for j in range(n - 1, -1, -1):
+            mul = int(num1[i]) * int(num2[j])      # ضرب digit × digit
+            sum_ = mul + arr[i + j + 1]            # اجمع مع اللي موجود في الخانة
+            arr[i + j + 1] = sum_ % 10             # نحط الباقي
+            arr[i + j] += sum_ // 10               # نضيف الـ carry
+
+    # تحويل النتيجة string مع حذف الـ leading zeros
+    result = "".join(map(str, arr)).lstrip("0")
+    return result if result else "0"
+
+
+# ✅ Test cases
+print(multiply("2", "3"))       # 6
+print(multiply("123", "456"))   # 56088
+print(multiply("99", "99"))     # 9801
+print(multiply("0", "52"))      # 0

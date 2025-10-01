@@ -26,5 +26,3 @@ class Solution(object):
 s = Solution()
 
 print (s.myAtoi("words and 987"))
-
-
