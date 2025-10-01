@@ -5,6 +5,16 @@ This repository contains solutions to various algorithmic problems categorized b
 
 ---
 
+## Statistics
+
+<div align="center">
+  <h3>📊 Repository Statistics 📊</h3>
+  <img src="./statistics_graph.svg" alt="Repository Statistics" width="600" height="300">
+  <p><a href="./statistics_dashboard.html"><b>➡️ Open Interactive Dashboard for Real-time Updates ⬅️</b></a></p>
+</div>
+
+---
+
 ## Index
 
 ### String Problems
@@ -21,15 +31,6 @@ This repository contains solutions to various algorithmic problems categorized b
 
 ---
 
-## Statistics
-
-<div align="center">
-  <h3>📊 Repository Statistics 📊</h3>
-  <img src="./statistics_graph.svg" alt="Repository Statistics" width="600" height="300">
-  <p><a href="./statistics_dashboard.html"><b>➡️ Open Interactive Dashboard for Real-time Updates ⬅️</b></a></p>
-</div>
-
----
 
 ## Notes
 This repository is designed to help improve problem-solving skills and prepare for coding interviews. Each problem is categorized for easy navigation and understanding.
