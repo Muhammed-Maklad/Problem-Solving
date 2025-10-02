@@ -23,6 +23,7 @@ This repository contains solutions to various algorithmic problems categorized b
 | [Rotate String](./String/Rotate%20String/README.md) | Easy       | 796        |
 | [String to Integer (atoi)](./String%20to%20Integer%20(atoi)/README.md) | Medium     | 8          |
 | [Multiply Strings](./Multiply%20Strings/README.md) | Medium     | 43         |
+| [Letter Combinations of a Phone Number](./Letter%20Combinations%20of%20a%20Phone%20Number/README.md) | Medium     | 17         |
 
 ### Array Problems
 | Problem Name                | Difficulty | Problem ID |

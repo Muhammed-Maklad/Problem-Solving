@@ -1,113 +1,119 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background with gradient -->
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    body { font-family: 'Roboto', sans-serif; background-color: #f0f2f5; }
+    .header-text { font-family: 'Roboto', sans-serif; font-size: 28px; font-weight: 700; fill: #2c3e50; }
+    .sub-header-text { font-family: 'Roboto', sans-serif; font-size: 18px; font-weight: 700; fill: #34495e; }
+    .label-text { font-family: 'Roboto', sans-serif; font-size: 14px; fill: #2c3e50; }
+    .value-text { font-family: 'Roboto', sans-serif; font-size: 14px; font-weight: 700; fill: #2c3e50; }
+    .total-problems-text { font-family: 'Roboto', sans-serif; font-size: 24px; font-weight: 700; fill: #2c3e50; }
+    .footer-text { font-family: 'Roboto', sans-serif; font-size: 12px; fill: #7f8c8d; }
+
+    .panel-bg { fill: url(#gradPanel); stroke: #e0e0e0; stroke-width: 1; }
+    .chart-bg { fill: #ffffff; stroke: #e0e0e0; stroke-width: 1; }
+
+    .pie-slice-easy { fill: url(#gradEasy); transition: all 0.3s ease-in-out; }
+    .pie-slice-medium { fill: url(#gradMedium); transition: all 0.3s ease-in-out; }
+    .pie-slice-hard { fill: url(#gradHard); transition: all 0.3s ease-in-out; }
+    .pie-slice:hover { opacity: 0.9; transform: scale(1.02); }
+
+    .bar-string { fill: url(#gradString); transition: all 0.3s ease-in-out; }
+    .bar-array { fill: url(#gradArray); transition: all 0.3s ease-in-out; }
+    .bar:hover { opacity: 0.9; transform: translateY(-2px); }
+
+    .tooltip { opacity: 0; transition: opacity 0.2s ease-in-out; pointer-events: none; }
+    .tooltip-bg { fill: #333; fill-opacity: 0.9; stroke: #555; stroke-width: 1px; }
+    .tooltip-text { fill: #fff; font-size: 12px; }
+  </style>
+
   <defs>
-    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#f8f9fa" />
-      <stop offset="100%" stop-color="#e9ecef" />
+    <linearGradient id="gradPanel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#eceff1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#cfd8dc;stop-opacity:1" />
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3" />
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.1"/>
     </filter>
-    <linearGradient id="easy-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#4CAF50" />
-      <stop offset="100%" stop-color="#388E3C" />
+
+    <linearGradient id="gradEasy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a8e063;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#56ab2f;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="medium-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFC107" />
-      <stop offset="100%" stop-color="#FFA000" />
+    <linearGradient id="gradMedium" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffa500;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="hard-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#F44336" />
-      <stop offset="100%" stop-color="#D32F2F" />
+    <linearGradient id="gradHard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ee0979;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="string-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#2196F3" />
-      <stop offset="100%" stop-color="#1976D2" />
+
+    <linearGradient id="gradString" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4682B4;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="array-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#9C27B0" />
-      <stop offset="100%" stop-color="#7B1FA2" />
-    </linearGradient>
-    <linearGradient id="total-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#3F51B5" />
-      <stop offset="100%" stop-color="#303F9F" />
+    <linearGradient id="gradArray" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#98FB98;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3CB371;stop-opacity:1" />
     </linearGradient>
   </defs>
-  
-  <!-- Main background -->
-  <rect width="800" height="400" fill="url(#bg-gradient)" rx="15" ry="15" filter="url(#shadow)" />
-  
-  <!-- Header -->
-  <rect x="20" y="20" width="760" height="60" fill="#ffffff" rx="10" ry="10" filter="url(#shadow)" />
-  <text x="400" y="60" font-family="'Segoe UI', Arial, sans-serif" font-size="24" text-anchor="middle" font-weight="bold" fill="#333333">Problem Solving Repository Statistics</text>
-  
-  <!-- Left Panel - Difficulty Distribution -->
-  <rect x="30" y="100" width="340" height="280" fill="#ffffff" rx="10" ry="10" filter="url(#shadow)" />
-  <text x="200" y="130" font-family="'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" fill="#333333">Difficulty Distribution</text>
-  
-  <!-- Pie Chart -->
-  <g transform="translate(200, 220)">
-    <!-- Pie Slices with gradients -->
-    <!-- Easy (2/4 = 50%) -->
-    <path d="M 0 0 L 0 -80 A 80 80 0 0 1 80 0 Z" fill="url(#easy-gradient)" />
-    <!-- Medium (2/4 = 50%) -->
-    <path d="M 0 0 L 80 0 A 80 80 0 0 1 0 80 Z" fill="url(#medium-gradient)" />
-    <!-- Hard (0/4 = 0%) -->
-    <path d="M 0 0 L 0 80 A 80 80 0 0 1 -80 0 Z" fill="url(#hard-gradient)" opacity="0.3" />
-    <!-- Empty (0%) -->
-    <path d="M 0 0 L -80 0 A 80 80 0 0 1 0 -80 Z" fill="url(#hard-gradient)" opacity="0" />
-    
-    <!-- Center Circle (for donut chart effect) -->
-    <circle cx="0" cy="0" r="40" fill="#ffffff" />
-    <text x="0" y="5" font-family="'Segoe UI', Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333333">Difficulty</text>
+
+  <rect x="0" y="0" width="800" height="400" class="panel-bg" rx="10" ry="10" style="filter:url(#shadow);"/>
+
+  <text x="400" y="35" text-anchor="middle" class="header-text">Problem Solving Statistics</text>
+
+  <!-- Total Problems -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="150" height="60" rx="8" ry="8" fill="#bbdefb" style="filter:url(#shadow);"/>
+    <text x="75" y="25" text-anchor="middle" class="label-text">Total Problems</text>
+    <text x="75" y="50" text-anchor="middle" class="total-problems-text">5</text>
   </g>
-  
-  <!-- Right Panel - Category Distribution -->
-  <rect x="390" y="100" width="380" height="280" fill="#ffffff" rx="10" ry="10" filter="url(#shadow)" />
-  <text x="580" y="130" font-family="'Segoe UI', Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" fill="#333333">Problem Categories</text>
-  
-  <!-- Category Bar Chart with animations -->
-  <g transform="translate(430, 170)">
-    <!-- String Problems Bar (3) -->
-    <rect x="0" y="0" width="300" height="40" fill="#eeeeee" rx="5" ry="5" />
-    <rect x="0" y="0" width="225" height="40" fill="url(#string-gradient)" rx="5" ry="5">
-      <animate attributeName="width" from="0" to="225" dur="1s" fill="freeze" />
+
+  <!-- Difficulty Distribution (Pie Chart) -->
+  <g transform="translate(250, 200)">
+    <text x="0" y="-120" text-anchor="middle" class="sub-header-text">Difficulty Distribution</text>
+    <circle cx="0" cy="0" r="80" fill="#ecf0f1"/>
+
+    <!-- Easy (2 problems) -->
+    <path d="M 0 0 L 80 0 A 80 80 0 0 1 47.02216688755694 -65.92543999905268 Z" class="pie-slice-easy"/>
+    <!-- Medium (3 problems) -->
+    <path d="M 0 0 L 47.02216688755694 -65.92543999905268 A 80 80 0 0 1 -72.63660999596634 33.68266228302302 Z" class="pie-slice-medium"/>
+    <!-- Hard (0 problems) -->
+    
+    <circle cx="0" cy="0" r="50" fill="#ffffff"/>
+    <text x="0" y="5" text-anchor="middle" class="label-text">Total</text>
+    <text x="0" y="25" text-anchor="middle" class="value-text">5</text>
+
+    <!-- Legend for Pie Chart -->
+    <g transform="translate(100, -80)">
+      <rect x="0" y="0" width="15" height="15" rx="3" ry="3" fill="#56ab2f"/>
+      <text x="20" y="12" class="label-text">Easy (2)</text>
+      <rect x="0" y="25" width="15" height="15" rx="3" ry="3" fill="#ffa500"/>
+      <text x="20" y="37" class="label-text">Medium (3)</text>
+      <rect x="0" y="50" width="15" height="15" rx="3" ry="3" fill="#ee0979"/>
+      <text x="20" y="62" class="label-text">Hard (0)</text>
+    </g>
+  </g>
+
+  <!-- Category Distribution (Bar Chart) -->
+  <g transform="translate(550, 180)">
+    <text x="0" y="-80" text-anchor="middle" class="sub-header-text">Category Distribution</text>
+    <rect x="-70" y="0" width="140" height="150" fill="#ecf0f1" rx="8" ry="8"/>
+
+    <!-- String Problems (3) -->
+    <rect x="-50" y="150" width="40" height="-112.5" rx="5" ry="5" class="bar-string" transform="scale(1,-1) translate(0,-300)">
+      <animate attributeName="height" from="0" to="112.5" dur="1s" fill="freeze"/>
     </rect>
-    <text x="20" y="25" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="white">String Problems</text>
-    <text x="280" y="25" font-family="'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="end" fill="#333333">3</text>
-    
-    <!-- Array Problems Bar (1) -->
-    <rect x="0" y="60" width="300" height="40" fill="#eeeeee" rx="5" ry="5" />
-    <rect x="0" y="60" width="75" height="40" fill="url(#array-gradient)" rx="5" ry="5">
-      <animate attributeName="width" from="0" to="75" dur="1s" fill="freeze" />
+    <text x="-30" y="165" text-anchor="middle" class="label-text">String</text>
+    <text x="-30" y="30" text-anchor="middle" class="value-text">3</text>
+
+    <!-- Array Problems (1) -->
+    <rect x="10" y="150" width="40" height="-37.5" rx="5" ry="5" class="bar-array" transform="scale(1,-1) translate(0,-300)">
+      <animate attributeName="height" from="0" to="37.5" dur="1s" fill="freeze"/>
     </rect>
-    <text x="20" y="85" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="white">Array Problems</text>
-    <text x="280" y="85" font-family="'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="end" fill="#333333">1</text>
+    <text x="30" y="165" text-anchor="middle" class="label-text">Array</text>
+    <text x="30" y="110" text-anchor="middle" class="value-text">1</text>
   </g>
-  
-  <!-- Legend -->
-  <g transform="translate(430, 280)">
-    <!-- Easy -->
-    <rect x="0" y="0" width="20" height="20" fill="url(#easy-gradient)" rx="3" ry="3" />
-    <text x="30" y="15" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#333333">Easy: 2</text>
-    
-    <!-- Medium -->
-    <rect x="120" y="0" width="20" height="20" fill="url(#medium-gradient)" rx="3" ry="3" />
-    <text x="150" y="15" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#333333">Medium: 2</text>
-    
-    <!-- Hard -->
-    <rect x="240" y="0" width="20" height="20" fill="url(#hard-gradient)" rx="3" ry="3" />
-    <text x="270" y="15" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#333333">Hard: 0</text>
-  </g>
-  
-  <!-- Total Counter -->
-  <g transform="translate(200, 330)">
-    <circle cx="0" cy="0" r="40" fill="url(#total-gradient)" filter="url(#shadow)" />
-    <text x="0" y="-5" font-family="'Segoe UI', Arial, sans-serif" font-size="14" text-anchor="middle" fill="white" font-weight="bold">Total</text>
-    <text x="0" y="20" font-family="'Segoe UI', Arial, sans-serif" font-size="24" text-anchor="middle" fill="white" font-weight="bold">4</text>
-  </g>
-  
-  <!-- Footer -->
-  <text x="400" y="390" font-family="'Segoe UI', Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666666">Last Updated: July 2025</text>
+
+  <text x="400" y="385" text-anchor="middle" class="footer-text">Generated by Lovable AI Editor</text>
 </svg>
