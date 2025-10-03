@@ -9,7 +9,7 @@ This repository contains solutions to various algorithmic problems categorized b
 
 <div align="center">
   <h3>📊 Repository Statistics 📊</h3>
-  <img src="./statistics_graph.svg" alt="Repository Statistics" width="600" height="300">
+  <img src="./statistics_graph.svg" alt="Repository Statistics" width="900" height="500">
   <p><a href="./statistics_dashboard.html"><b>➡️ Open Interactive Dashboard for Real-time Updates ⬅️</b></a></p>
 </div>
 
@@ -24,6 +24,7 @@ This repository contains solutions to various algorithmic problems categorized b
 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/README.md) | Medium     | 8          |
 | [Multiply Strings](String/Multiply%20Strings/README.md) | Medium     | 43         |
 | [Letter Combinations of a Phone Number](./String/Letter%20Combinations%20of%20a%20Phone%20Number/README.md) | Medium     | 17         |
+| [Excel Sheet Column Title](./Excel%20Sheet%20Column%20Title/EWADME.md) | Easy | 168 |
 
 ### Array Problems
 | Problem Name                | Difficulty | Problem ID |
