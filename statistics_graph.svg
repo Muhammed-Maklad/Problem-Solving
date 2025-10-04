@@ -48,14 +48,15 @@
   <!-- Difficulty Radial Bars -->
   <g transform="translate(430,270)">
     <text y="-140" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="20" font-weight="700">Difficulty</text>
-    <!-- Easy 40% -->
-    <path d="M0 -110 A110 110 0 0 1 85.9 -59.7" stroke="#1dd1a1" stroke-width="20" fill="none" stroke-linecap="round"/>
-    <!-- Medium 60% -->
-    <path d="M85.9 -59.7 A110 110 0 0 1 0 110" stroke="#ff9f43" stroke-width="20" fill="none" stroke-linecap="round"/>
+    <!-- Easy 57% -->
+    <path d="M0 -110 A110 110 0 0 1 104.1 33.7" stroke="#1dd1a1" stroke-width="20" fill="none" stroke-linecap="round"/>
+    <!-- Medium 43% -->
+    <path d="M104.1 33.7 A110 110 0 0 1 0 110" stroke="#ff9f43" stroke-width="20" fill="none" stroke-linecap="round"/>
+    <!-- Hard 0% (not shown) -->
     <!-- Inner circle -->
     <circle r="70" fill="url(#cardGrad)" stroke="#23323c" stroke-width="2"/>
-    <text y="5" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="26" font-weight="700">2 / 3</text>
-    <text y="32" text-anchor="middle" fill="#cccccc" font-family="Arial" font-size="12">Easy / Medium</text>
+    <text y="5" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="26" font-weight="700">4 / 3 / 0</text>
+    <text y="32" text-anchor="middle" fill="#cccccc" font-family="Arial" font-size="12">Easy / Medium / Hard</text>
   </g>
 
   <!-- Category Bars -->
@@ -66,29 +67,32 @@
 
     <!-- Grouped bars for difficulty counts -->
     <!-- String category -->
-    <!-- Easy bar -->
-    <rect x="-65" y="-45" width="20" height="45" fill="#1dd1a1" filter="url(#shadow)">
-      <animate attributeName="height" from="0" to="45" dur="1s" fill="freeze"/>
-    </rect>
-    <!-- Medium bar -->
-    <rect x="-35" y="-135" width="20" height="135" fill="#ff9f43" filter="url(#shadow)">
+    <!-- Easy bar (E3) -->
+    <rect x="-65" y="-135" width="20" height="135" fill="#1dd1a1" filter="url(#shadow)">
       <animate attributeName="height" from="0" to="135" dur="1s" fill="freeze"/>
+    </rect>
+    <!-- Medium bar (M2) -->
+    <rect x="-35" y="-90" width="20" height="90" fill="#ff9f43" filter="url(#shadow)">
+      <animate attributeName="height" from="0" to="90" dur="1s" fill="freeze"/>
     </rect>
     <!-- String labels -->
     <text x="-50" y="20" text-anchor="middle" fill="#ffffff" font-size="14">String</text>
-    <text x="-50" y="-150" text-anchor="middle" fill="#ffffff" font-size="12">E1</text>
+    <text x="-50" y="-150" text-anchor="middle" fill="#ffffff" font-size="12">E3</text>
     <text x="-20" y="-150" text-anchor="middle" fill="#ffffff" font-size="12">M2</text>
 
     <!-- Array category -->
-    <!-- Easy bar -->
+    <!-- Easy bar (E1) -->
     <rect x="15" y="-45" width="20" height="45" fill="#1dd1a1" filter="url(#shadow)">
       <animate attributeName="height" from="0" to="45" dur="1s" fill="freeze"/>
     </rect>
-    <!-- Medium bar (height 0) -->
-    <rect x="45" y="0" width="20" height="0" fill="#ff9f43"/>
+    <!-- Medium bar (M1) -->
+    <rect x="45" y="-45" width="20" height="45" fill="#ff9f43" filter="url(#shadow)">
+      <animate attributeName="height" from="0" to="45" dur="1s" fill="freeze"/>
+    </rect>
     <!-- Array labels -->
     <text x="30" y="20" text-anchor="middle" fill="#ffffff" font-size="14">Array</text>
     <text x="30" y="-60" text-anchor="middle" fill="#ffffff" font-size="12">E1</text>
+    <text x="60" y="-60" text-anchor="middle" fill="#ffffff" font-size="12">M1</text>
   </g>
 
   <!-- Footer -->
