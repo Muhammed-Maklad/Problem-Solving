@@ -21,18 +21,18 @@ This repository contains solutions to various algorithmic problems categorized b
 | Problem Name                | Difficulty | Problem ID |
 |-----------------------------|------------|------------|
 | [Rotate String](./String/Rotate%20String/README.md) | Easy       | 796        |
-| [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/README.md) | Medium     | 8          |
-| [Multiply Strings](String/Multiply%20Strings/README.md) | Medium     | 43         |
-| [Letter Combinations of a Phone Number](./String/Letter%20Combinations%20of%20a%20Phone%20Number/README.md) | Medium     | 17         |
+| [String to Integer (atoi)](./String%20to%20Integer%20(atoi)/README.md) | Medium     | 8          |
+| [Multiply Strings](./Multiply%20Strings/README.md) | Medium     | 43         |
+| [Letter Combinations of a Phone Number](./Letter%20Combinations%20of%20a%20Phone%20Number/READme.md) | Medium     | 17         |
+| [Score of a String](./Score%20of%20a%20String/READme.md) | Easy | 3110 |
 | [Excel Sheet Column Title](./Excel%20Sheet%20Column%20Title/EWADME.md) | Easy | 168 |
 
 ### Array Problems
 | Problem Name                | Difficulty | Problem ID |
 |-----------------------------|------------|------------|
-| [Remove Element](./Array/Remove%20Element/README.md) | Easy       | 27         |
+| [Remove Element](./Remove%20Element/READme.md) | Easy       | 27         |
 
 ---
-
 
 ## Notes
 This repository is designed to help improve problem-solving skills and prepare for coding interviews. Each problem is categorized for easy navigation and understanding.

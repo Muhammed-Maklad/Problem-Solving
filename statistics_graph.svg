@@ -42,7 +42,7 @@
     </circle>
     <circle r="78" fill="url(#cardGrad)" stroke="#23323c" stroke-width="2"/>
     <text y="-10" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="16">Total</text>
-    <text y="25" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="32" font-weight="700">6</text>
+    <text y="25" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="32" font-weight="700">7</text>
   </g>
 
   <!-- Difficulty Radial Bars -->
