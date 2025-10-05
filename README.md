@@ -6,13 +6,10 @@ This repository contains solutions to various algorithmic problems categorized b
 ---
 
 ## Statistics
-
 <div align="center">
   <h3>📊 Repository Statistics 📊</h3>
   <img src="./statistics_graph.svg" alt="Repository Statistics" width="900" height="500">
-  <p><a href="./statistics_dashboard.html"><b>➡️ Open Interactive Dashboard for Real-time Updates ⬅️</b></a></p>
 </div>
-
 ---
 
 ## Index
@@ -26,6 +23,9 @@ This repository contains solutions to various algorithmic problems categorized b
 | [Letter Combinations of a Phone Number](./Letter%20Combinations%20of%20a%20Phone%20Number/READme.md) | Medium     | 17         |
 | [Score of a String](./Score%20of%20a%20String/READme.md) | Easy | 3110 |
 | [Excel Sheet Column Title](./Excel%20Sheet%20Column%20Title/EWADME.md) | Easy | 168 |
+| [Find Words Containing Character](./Find%20Words%20Containing%20Character/READme.md) | Easy | 2942 |
+
+
 
 ### Array Problems
 | Problem Name                | Difficulty | Problem ID |
