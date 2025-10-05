@@ -1,11 +1,8 @@
-res = 0
+words = ["abc","bcd","aaaa","cbc"]; x = "a"
 
-word = "hello"
-pointer = 1
-
-for x in range(len(word)-1):
-    res += abs(ord(word[x])- ord(word[pointer]))
-    pointer += 1
-
+res = []
+for word in range(len(words)):
+    if x in words[word]:
+        res.append(word)
 
 print(res)
