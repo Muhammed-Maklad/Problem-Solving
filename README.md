@@ -31,6 +31,7 @@ This repository contains solutions to various algorithmic problems categorized b
 | Problem Name                | Difficulty | Problem ID |
 |-----------------------------|------------|------------|
 | [Remove Element](./Remove%20Element/READme.md) | Easy       | 27         |
+| [Median of Two Sorted Arrays](./Median%20of%20Two%20Sorted%20Arrays/READme.md) | Hard       | 4          |
 
 ---
 
