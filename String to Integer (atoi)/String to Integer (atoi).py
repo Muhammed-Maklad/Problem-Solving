@@ -7,8 +7,7 @@ class Solution(object):
         s = s.strip()
         if not s:
             return 0
-        
-        sign = 1 
+
         if s[0] == "-":
             sign =-1
             s = s[1:]
@@ -26,3 +25,5 @@ class Solution(object):
 s = Solution()
 
 print (s.myAtoi("words and 987"))
+
+
