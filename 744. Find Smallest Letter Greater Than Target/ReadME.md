@@ -41,6 +41,7 @@ letters = ["c","f","j"], target = "c"
   `Explanation`: The smallest character that is lexicographically greater than 'c' in letters is 'f'.
 
 
+
 ---- ---
 
 ### Example 2:
