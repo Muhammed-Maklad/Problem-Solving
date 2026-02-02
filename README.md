@@ -23,7 +23,8 @@ This repository contains solutions to various algorithmic problems categorized b
 | [Letter Combinations of a Phone Number](./Letter%20Combinations%20of%20a%20Phone%20Number/READme.md) | Medium     | 17         |
 | [Score of a String](./Score%20of%20a%20String/READme.md) | Easy | 3110 |
 | [Excel Sheet Column Title](./Excel%20Sheet%20Column%20Title/EWADME.md) | Easy | 168 |
-| [Find Words Containing Character](./Find%20Words%20Containing%20Character/READme.md) | Easy | 2942 |
+| [Find Words Containing Character](./Find%20Words%20Containing%20Character/Readme.md) | Easy | 2942 |
+| [Find Smallest Letter Greater Than Target](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/ReadME.md) | Easy | 744 |
 
 
 
