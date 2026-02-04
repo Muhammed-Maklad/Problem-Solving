@@ -37,6 +37,15 @@ This repository contains solutions to various algorithmic problems categorized b
 | [Summary Ranges](./228.%20Summary%20Ranges/Summary%20Ranges.md) | Easy | 228 |
 
 
+### SQL Problems
+| Problem Name                | Difficulty | Problem ID |
+|-----------------------------|------------|------------|
+| [Customers Who Never Order](./Customers%20Who%20Never%20Order/README.md) | Easy       | 183         |
+| [Employees Earning More Than Their Managers](./Employees%20Earning%20More%20Than%20Their%20Managers/README.md) | Easy       | 181          |
+| [Duplicate Emails](./Duplicate%20Emails/README.md) | Easy | 175 |
+
+
+
 
 ---
 
