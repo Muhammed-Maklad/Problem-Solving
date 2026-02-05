@@ -43,8 +43,7 @@ This repository contains solutions to various algorithmic problems categorized b
 | [Customers Who Never Order](./Customers%20Who%20Never%20Order/README.md) | Easy       | 183         |
 | [Employees Earning More Than Their Managers](./Employees%20Earning%20More%20Than%20Their%20Managers/README.md) | Easy       | 181          |
 | [Duplicate Emails](./Duplicate%20Emails/README.md) | Easy | 175 |
-
-
+| [Delete Duplicate Emails](./196%20%20Delete%20Duplicate%20Emails/READMe.md) | Easy | 196 |
 
 
 ---
