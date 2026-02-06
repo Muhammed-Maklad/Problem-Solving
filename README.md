@@ -27,7 +27,6 @@ This repository contains solutions to various algorithmic problems categorized b
 | [Find Smallest Letter Greater Than Target](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/ReadME.md) | Easy | 744 |
 
 
-
 ### Array Problems
 | Problem Name                | Difficulty | Problem ID |
 |-----------------------------|------------|------------|
@@ -44,8 +43,7 @@ This repository contains solutions to various algorithmic problems categorized b
 | [Employees Earning More Than Their Managers](./Employees%20Earning%20More%20Than%20Their%20Managers/README.md) | Easy       | 181          |
 | [Duplicate Emails](./Duplicate%20Emails/README.md) | Easy | 175 |
 | [Delete Duplicate Emails](./196%20%20Delete%20Duplicate%20Emails/READMe.md) | Easy | 196 |
-
-
+| [Investments in 2016](./585.%20Investments%20in%202016/READMe.md) | Medium | 585 |
 ---
 
 ## Notes
