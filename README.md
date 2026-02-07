@@ -45,6 +45,8 @@ This repository contains solutions to various algorithmic problems categorized b
 | [Delete Duplicate Emails](./196%20%20Delete%20Duplicate%20Emails/READMe.md) | Easy | 196 |
 | [Investments in 2016](./585.%20Investments%20in%202016/READMe.md) | Medium | 585 |
 | [Friend Requests II: Who Has the Most Friends](./602.%20Who%20Has%20the%20Most%20Friends/Readme.MD) | Medium | 602 |
+| [Consecutive Numbers](./180.%20Consecutive%20Numbers/ReadMe.md) | Medium | 180 |
+
 ---
 
 ## Notes
