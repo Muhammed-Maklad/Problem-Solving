@@ -34,6 +34,9 @@ This repository contains solutions to various algorithmic problems categorized b
 | [Median of Two Sorted Arrays](./Median%20of%20Two%20Sorted%20Arrays/READme.md) | Hard       | 4          |
 | [Single Number](./Single%20Number/READme.md) | Easy | 136 |
 | [Summary Ranges](./228.%20Summary%20Ranges/Summary%20Ranges.md) | Easy | 228 |
+| [Merge Intervals](./56.%20Merge%20Intervals/Readme.md) | Meduim | 56 | 
+| [Group Anagrams](./49.%20Group%20Anagrams/Readme.md) | Meduim  | 49 |
+
 
 
 ### SQL Problems

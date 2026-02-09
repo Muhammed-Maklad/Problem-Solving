@@ -1,5 +1,15 @@
-prices = [7,6,4,3,1]
-ind = prices.index(min(prices))
-print(ind)
-prices = prices[ind : ]
-print(max(prices)-prices[0])
+strs = ["",""]
+
+dic = []
+for x in strs:
+    dic.append(tuple(sorted(x)))
+
+result = {}
+
+for i, value in enumerate(dic):
+    if value not in result:
+        result[value] = []
+    result[value].append(strs[i])
+
+print(list(result.values()))
+
