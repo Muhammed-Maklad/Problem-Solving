@@ -41,17 +41,13 @@ Whether you're preparing for FAANG interviews, brushing up on data structures an
 ## Repository Statistics
 
 
-```
-Easy:    ███████████████░░░░░ 52% (13/25)
-Medium:  ████████░░░░░░░░░░░░ 40% (10/25)
-Hard:    ██░░░░░░░░░░░░░░░░░░  8% (2/25)
-```
+
 
 **Current Totals:**
 - **String Problems:** 8 solutions
-- **Array Problems:** 6 solutions  
+- **Array Problems:** 7 solutions  
 - **SQL Problems:** 11 solutions
-- **Total Problems:** 25
+- **Total Problems:** 26
 
 ---
 
@@ -81,6 +77,8 @@ Hard:    ██░░░░░░░░░░░░░░░░░░  8% (2/25)
 | [Summary Ranges](./228.%20Summary%20Ranges/Summary%20Ranges.md) | Easy | 228 | Array Traversal |
 | [Merge Intervals](./56.%20Merge%20Intervals/Readme.md) | Medium | 56 | Sorting, Intervals |
 | [Group Anagrams](./49.%20Group%20Anagrams/Readme.md) | Medium | 49 | Hash Table, Sorting |
+| [Product of Array Except Self](./238.%20Product%20of%20Array%20Except%20Self/Readme.MD) | Medium | 238 | Array , Prefix Sum |
+
 
 ### SQL Problems
 
