@@ -192,7 +192,7 @@ Contributions are welcome! Help make this repository more valuable for the commu
 
 ### Reporting Issues
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/yourusername/problem-solving-repo/issues) with:
+Found a bug or have a suggestion? [Open an issue](https://github.com/Muhammed-Maklad/Problem-Solving/issues) with:
 - Clear description of the problem
 - Steps to reproduce (if applicable)
 - Expected vs actual behavior
