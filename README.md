@@ -51,6 +51,7 @@ This repository contains solutions to various algorithmic problems categorized b
 | [Consecutive Numbers](./180.%20Consecutive%20Numbers/ReadMe.md) | Medium | 180 |
 | [User Activity for the Past 30 Days I](./\User_Activity_LAST_30_DAY/Readme.md) | Easy | 1141 |
 | [Rank Scores ](./178.%20Rank%20Scores/README.md) | Medium | 178 |
+| [Department Top Three Salaries](./185.%20Department%20Top%20Three%20Salaries/Readme.MD) | Hard | 185 | 
 
 
 
