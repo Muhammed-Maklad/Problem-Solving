@@ -52,6 +52,7 @@ This repository contains solutions to various algorithmic problems categorized b
 | [User Activity for the Past 30 Days I](./\User_Activity_LAST_30_DAY/Readme.md) | Easy | 1141 |
 | [Rank Scores ](./178.%20Rank%20Scores/README.md) | Medium | 178 |
 | [Department Top Three Salaries](./185.%20Department%20Top%20Three%20Salaries/Readme.MD) | Hard | 185 | 
+| [Find Loyal Customers](./3657.%20Find%20Loyal%20Customers/README.md) | Meduim | 3657 |
 
 
 
