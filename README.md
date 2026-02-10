@@ -95,6 +95,8 @@ Whether you're preparing for FAANG interviews, brushing up on data structures an
 | [Rank Scores](./178.%20Rank%20Scores/README.md) | Medium | 178 | DENSE_RANK |
 | [Department Top Three Salaries](./185.%20Department%20Top%20Three%20Salaries/Readme.MD) | Hard | 185 | Window Functions, CTE |
 | [Find Loyal Customers](./3657.%20Find%20Loyal%20Customers/README.md) | Medium | 3657 | Aggregation, Filtering |
+| [Nth Highest Salary](./177.%20Nth%20Highest%20Salary/Readme.MD) | Medium | 177 | Function , DENSE_Rank |
+
 
 ---
 
