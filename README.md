@@ -98,6 +98,7 @@ Whether you're preparing for FAANG interviews, brushing up on data structures an
 | [Nth Highest Salary](./177.%20Nth%20Highest%20Salary/Readme.MD) | Medium | 177 | Function , DENSE_Rank |
 | [Trips and Users](./262.%20Trips%20and%20Users/Readme.md) | Hard | 262 | Aggregation, Filtering |
 | [Department Highest Salary](./184.%20Department%20Highest%20Salary/Readme.md) | Meduim | 184 | DENSE_Rank , SUB Quary |
+| [Tree Node](./608.%20Tree%20Node/Readme.MD) | Meduim  | 608 | CASE ,  Filtering | 
 ---
 
 ## Getting Started
