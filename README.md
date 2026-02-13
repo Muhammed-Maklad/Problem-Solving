@@ -1,239 +1,393 @@
-# Problem Solving Repository
+<div align="center">
 
-A curated collection of algorithmic problem solutions designed to help developers strengthen their coding skills and prepare for technical interviews. This repository contains well-documented solutions to problems from various platforms, organized by topic and difficulty level.
+# 🎯 Algorithmic Problem Solving Repository
 
-[![GitHub Stars](https://img.shields.io/github/stars/Muhammed-Maklad/Problem-Solving?style=social)](https://github.com/yourusername/problem-solving-repo)
-[![GitHub Issues](https://img.shields.io/github/issues/Muhammed-Maklad/Problem-Solving)](https://github.com/Muhammed-Maklad/Problem-Solving/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+### *A Comprehensive Collection of Interview-Ready Solutions*
+
+[![GitHub Stars](https://img.shields.io/github/stars/Muhammed-Maklad/Problem-Solving?style=for-the-badge&logo=github)](https://github.com/Muhammed-Maklad/Problem-Solving)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+
+**Master data structures and algorithms through curated, well-documented solutions**
+
+[Explore Problems](#table-of-contents) • [Get Started](#️-problem-categories) • [Contribute](#-contributing) • [Contact](#stay-connected)
+
+</div>
 
 ---
 
 ## Table of Contents
 
-- [About](#about)
-- [Repository Statistics](#repository-statistics)
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Repository Metrics](#repository-metrics)
 - [Problem Categories](#problem-categories)
-  - [String Problems](#string-problems)
-  - [Array Problems](#array-problems)
-  - [SQL Problems](#sql-problems)
 - [Getting Started](#getting-started)
-- [How to Use](#how-to-use)
+- [Usage Guide](#usage-guide)
 - [Contributing](#contributing)
+- [Support & Community](#support--community)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
-## About
+## 🌟 Overview
 
-This repository serves as a comprehensive resource for algorithmic problem-solving, containing solutions to coding challenges commonly encountered in technical interviews and competitive programming. Each problem is carefully documented with:
+This repository is a **production-ready resource** for software engineers preparing for technical interviews and developers seeking to strengthen their algorithmic problem-solving skills. Each solution is crafted with the same rigor expected in professional software development.
 
-- **Clear problem statements** with constraints and requirements
-- **Multiple test cases** demonstrating input/output behavior
-- **Detailed solution approaches** explaining the logic and algorithms used
-- **Time and space complexity analysis** for performance evaluation
-- **Clean, readable code** following best practices
 
-Whether you're preparing for FAANG interviews, brushing up on data structures and algorithms, or simply looking to improve your problem-solving skills, this repository provides structured learning materials organized by topic and difficulty.
+### ✨ Key Features
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 **Structured Learning**
+- Organized by data structure and algorithm type
+- Progressive difficulty levels (Easy → Medium → Hard)
+- Topic-based categorization for focused practice
+
+</td>
+<td width="50%">
+
+### 💡 **Detailed Solutions**
+- Clear problem statements with constraints
+- Multiple solution approaches where applicable
+- Comprehensive time/space complexity analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 **Interview Ready**
+- Common patterns from technical interviews
+- Edge cases and gotchas highlighted
+- Best practices and optimization techniques
+
+</td>
+<td width="50%">
+
+### 🔄 **Active Maintenance**
+- Regular updates with new problems
+- Community contributions welcomed
+- Continuous improvement of existing solutions
+
+</td>
+</tr>
+</table>
+
 
 ---
 
-## Repository Statistics
+## 🗂️ Problem Categories
 
+### 🔤 String Problems
 
+<details open>
+<summary><b>View All String Problems (8)</b></summary>
 
+| # | Problem | Difficulty | ID | Key Concepts |
+|---|---------|------------|----|--------------| 
+| 1 | [Rotate String](./String/Rotate%20String/README.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 796 | String Manipulation |
+| 2 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/README.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 8 | String Parsing, Edge Cases |
+| 3 | [Multiply Strings](./String/Multiply%20Strings/README.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 43 | Math, Simulation |
+| 4 | [Letter Combinations of a Phone Number](./String/Letter%20Combinations%20of%20a%20Phone%20Number/READme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 17 | Backtracking, Recursion |
+| 5 | [Score of a String](./String/Score%20of%20a%20String/READme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3110 | ASCII Operations |
+| 6 | [Excel Sheet Column Title](./Excel%20Sheet%20Column%20Title/EWADME.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 168 | Math, Base Conversion |
+| 7 | [Find Words Containing Character](./String/Find%20Words%20Containing%20Character/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 2942 | Array, String Search |
+| 8 | [Find Smallest Letter Greater Than Target](./String/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/ReadME.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 744 | Binary Search |
 
-**Current Totals:**
-- **String Problems:** 8 solutions
-- **Array Problems:** 7 solutions  
-- **SQL Problems:** 11 solutions
-- **Total Problems:** 26
+</details>
+
+### 📊 Array Problems
+
+<details open>
+<summary><b>View All Array Problems (9)</b></summary>
+
+| # | Problem | Difficulty | ID | Key Concepts |
+|---|---------|------------|----|--------------| 
+| 1 | [Remove Element](./Array/Remove%20Element/READme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 27 | Two Pointers, In-place |
+| 2 | [Median of Two Sorted Arrays](./Array/4.%20Median%20of%20Two%20Sorted%20Arrays/Readme.md) | ![Hard](https://img.shields.io/badge/-Hard-d9534f) | 4 | Binary Search, Divide & Conquer |
+| 3 | [Single Number](./Array/Single%20Number/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 136 | Bit Manipulation, XOR |
+| 4 | [Summary Ranges](./Array/228.%20Summary%20Ranges/Summary%20Ranges.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 228 | Array Traversal |
+| 5 | [Merge Intervals](./Array/56.%20Merge%20Intervals/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 56 | Sorting, Intervals |
+| 6 | [Group Anagrams](./String/49.%20Group%20Anagrams/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 49 | Hash Table, Sorting |
+| 7 | [Product of Array Except Self](./Array/238.%20Product%20of%20Array%20Except%20Self/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 238 | Prefix Sum, Space Optimization |
+
+</details>
+
+### 🗄️ SQL Problems
+
+<details open>
+<summary><b>View All SQL Problems (15)</b></summary>
+
+| # | Problem | Difficulty | ID | Key Concepts |
+|---|---------|------------|----|--------------| 
+| 1 | [Employees Earning More Than Their Managers](./SQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers/ReadME.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 181 | Self Join |
+| 2 | [Delete Duplicate Emails](./SQL/196%20%20Delete%20Duplicate%20Emails/READMe.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 196 | DELETE, Self Join |
+| 3 | [Investments in 2016](./SQL/585.%20Investments%20in%202016/READMe.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 585 | Window Functions, Aggregation |
+| 4 | [Friend Requests II: Who Has the Most Friends](./SQL/602.Who%20Has%20the%20Most%20Friends/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 602 | UNION, GROUP BY |
+| 5 | [Consecutive Numbers](./SQL/180.%20Consecutive%20Numbers/ReadMe.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 180 | Window Functions, LAG/LEAD |
+| 6 | [User Activity for the Past 30 Days I](./SQL/User_Activity_LAST_30_DAY/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1141 | Date Functions, Filtering |
+| 7 | [Rank Scores](./SQL/178.%20Rank%20Scores/README.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 178 | DENSE_RANK, Window Functions |
+| 8 | [Department Top Three Salaries](./SQL/185.%20Department%20Top%20Three%20Salaries/Readme.MD) | ![Hard](https://img.shields.io/badge/-Hard-d9534f) | 185 | Window Functions, CTE |
+| 9 | [Find Loyal Customers](./SQL/3657.%20Find%20Loyal%20Customers/README.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 3657 | Aggregation, HAVING |
+| 10 | [Nth Highest Salary](./SQL/177.%20Nth%20Highest%20Salary/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 177 | Function Creation, DENSE_RANK |
+| 11 | [Trips and Users](./SQL/262.%20Trips%20and%20Users/Readme.md) | ![Hard](https://img.shields.io/badge/-Hard-d9534f) | 262 | Complex Joins, CASE |
+| 12 | [Department Highest Salary](./SQL/184.%20Department%20Highest%20Salary/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 184 | Subqueries, DENSE_RANK |
+| 13 | [Tree Node](./SQL/608.%20Tree%20Node/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 608 | CASE, Hierarchical Data |
+
+</details>
 
 ---
 
 
-## Problem Categories
-
-### String Problems
-
-| Problem Name | Difficulty | Problem ID | Topics |
-|--------------|------------|------------|--------|
-| [Rotate String](./String/Rotate%20String/README.md) | Easy | 796 | String Manipulation |
-| [String to Integer (atoi)](./String%20to%20Integer%20(atoi)/README.md) | Medium | 8 | String Parsing |
-| [Multiply Strings](./Multiply%20Strings/README.md) | Medium | 43 | Math, Simulation |
-| [Letter Combinations of a Phone Number](./Letter%20Combinations%20of%20a%20Phone%20Number/READme.md) | Medium | 17 | Backtracking |
-| [Score of a String](./Score%20of%20a%20String/READme.md) | Easy | 3110 | ASCII Operations |
-| [Excel Sheet Column Title](./Excel%20Sheet%20Column%20Title/EWADME.md) | Easy | 168 | Math, String |
-| [Find Words Containing Character](./Find%20Words%20Containing%20Character/Readme.md) | Easy | 2942 | Array, String |
-| [Find Smallest Letter Greater Than Target](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/ReadME.md) | Easy | 744 | Binary Search |
-
-### Array Problems
-
-| Problem Name | Difficulty | Problem ID | Topics |
-|--------------|------------|------------|--------|
-| [Remove Element](./Remove%20Element/READme.md) | Easy | 27 | Two Pointers |
-| [Median of Two Sorted Arrays](./Median%20of%20Two%20Sorted%20Arrays/READme.md) | Hard | 4 | Binary Search, Divide & Conquer |
-| [Single Number](./Single%20Number/READme.md) | Easy | 136 | Bit Manipulation |
-| [Summary Ranges](./228.%20Summary%20Ranges/Summary%20Ranges.md) | Easy | 228 | Array Traversal |
-| [Merge Intervals](./56.%20Merge%20Intervals/Readme.md) | Medium | 56 | Sorting, Intervals |
-| [Group Anagrams](./49.%20Group%20Anagrams/Readme.md) | Medium | 49 | Hash Table, Sorting |
-| [Product of Array Except Self](./238.%20Product%20of%20Array%20Except%20Self/Readme.MD) | Medium | 238 | Array , Prefix Sum |
-
-
-### SQL Problems
-
-| Problem Name | Difficulty | Problem ID | Topics |
-|--------------|------------|------------|--------|
-| [Customers Who Never Order](./Customers%20Who%20Never%20Order/README.md) | Easy | 183 | Joins, Subqueries |
-| [Employees Earning More Than Their Managers](./Employees%20Earning%20More%20Than%20Their%20Managers/README.md) | Easy | 181 | Self Join |
-| [Duplicate Emails](./Duplicate%20Emails/README.md) | Easy | 175 | GROUP BY, HAVING |
-| [Delete Duplicate Emails](./196%20%20Delete%20Duplicate%20Emails/READMe.md) | Easy | 196 | DELETE, Self Join |
-| [Investments in 2016](./585.%20Investments%20in%202016/READMe.md) | Medium | 585 | Window Functions |
-| [Friend Requests II: Who Has the Most Friends](./602.%20Who%20Has%20the%20Most%20Friends/Readme.MD) | Medium | 602 | UNION, Aggregation |
-| [Consecutive Numbers](./180.%20Consecutive%20Numbers/ReadMe.md) | Medium | 180 | Window Functions |
-| [User Activity for the Past 30 Days I](./\User_Activity_LAST_30_DAY/Readme.md) | Easy | 1141 | Date Functions |
-| [Rank Scores](./178.%20Rank%20Scores/README.md) | Medium | 178 | DENSE_RANK |
-| [Department Top Three Salaries](./185.%20Department%20Top%20Three%20Salaries/Readme.MD) | Hard | 185 | Window Functions, CTE |
-| [Find Loyal Customers](./3657.%20Find%20Loyal%20Customers/README.md) | Medium | 3657 | Aggregation, Filtering |
-| [Nth Highest Salary](./177.%20Nth%20Highest%20Salary/Readme.MD) | Medium | 177 | Function , DENSE_Rank |
-| [Trips and Users](./262.%20Trips%20and%20Users/Readme.md) | Hard | 262 | Aggregation, Filtering |
-| [Department Highest Salary](./184.%20Department%20Highest%20Salary/Readme.md) | Meduim | 184 | DENSE_Rank , SUB Quary |
-| [Tree Node](./608.%20Tree%20Node/Readme.MD) | Meduim  | 608 | CASE ,  Filtering | 
----
-
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
-- **Programming Languages:** Python, Java, C++, or JavaScript (depending on solution implementations)
-- **SQL Database:** MySQL, PostgreSQL, or similar (for SQL problems)
-- **Text Editor/IDE:** VS Code, IntelliJ, PyCharm, or any preferred editor
+Ensure you have the following installed on your system:
+
+```bash
+# Programming Languages
+- Python 3.8+ (for algorithmic problems)
+- SQL (MySQL 8.0+ or PostgreSQL 12+)
+
+# Development Tools
+- Git
+- Code Editor (VS Code, PyCharm, or similar)
+- Terminal/Command Line Interface
+```
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Muhammed-Maklad/Problem-Solving.git
-cd problem-solving-repo
-```
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Muhammed-Maklad/Problem-Solving.git
+   cd Problem-Solving
+   ```
 
-2. Navigate to any problem directory:
-```bash
-cd "String/Rotate String"
-```
+2. **Verify the structure**
+   ```bash
+   ls -la
+   # You should see: Array/, String/, SQL/, README.md, LICENSE
+   ```
 
-3. Read the README.md file for problem details and solution explanation
+3. **Navigate to a problem**
+   ```bash
+   cd "String/Rotate String"
+   cat README.md
+   ```
 
----
-
-## How to Use
-
-### For Learning
-
-1. **Choose a Topic** - Start with a category you want to improve (Strings, Arrays, SQL)
-2. **Select Difficulty** - Begin with Easy problems and progress to Medium/Hard
-3. **Read the Problem** - Each folder contains a README.md with the full problem statement
-4. **Attempt Yourself** - Try solving before viewing the solution
-5. **Review Solution** - Study the approach, complexity analysis, and implementation
-6. **Practice Variations** - Look for similar problems to reinforce learning
-
-
-### Example Usage
+### Quick Start Example
 
 ```bash
-# Navigate to a specific problem
-cd "Median of Two Sorted Arrays"
+# 1. Choose a category
+cd Array
 
-# View the problem statement and solution
+# 2. Select a problem
+cd "Single Number"
+
+# 3. Read the problem
 cat README.md
 
-# Run the solution (example for Python)
+# 4. View the solution
+cat solution.py
+
+# 5. Run tests (if available)
 python solution.py
 ```
 
----
 
-## Contributing
 
-Contributions are welcome! Help make this repository more valuable for the community.
+### Recommended Learning Path
+
+```mermaid
+graph LR
+    A[Start] --> B[Pick Category]
+    B --> C[Easy Problems]
+    C --> D[Understand Pattern]
+    D --> E[Medium Problems]
+    E --> F[Apply Optimizations]
+    F --> G[Hard Problems]
+    G --> H[Master Topic]
+    H --> I[Next Category]
+```
+
+### Study Approach
+
+1. **Read & Understand**: Carefully read the problem statement and constraints
+2. **Plan**: Think through the approach before coding (5-10 minutes)
+3. **Implement**: Write clean, commented code
+4. **Test**: Verify with provided test cases and edge cases
+5. **Analyze**: Review time/space complexity
+6. **Optimize**: Consider alternative approaches
+7. **Review**: Compare with the provided solution
+
+### Problem Template Structure
+
+
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Your contributions help make this resource better for everyone.
 
 ### How to Contribute
 
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/add-new-problem
-   ```
-3. **Add your solution** following the existing structure:
-   - Create a new folder with the problem name
-   - Include a detailed README.md with:
-     - Problem statement
-     - Constraints
-     - Examples
-     - Solution approach
-     - Time/Space complexity
-   - Add your solution code with comments
-4. **Commit your changes**
-   ```bash
-   git commit -m "Add solution for [Problem Name]"
-   ```
-5. **Push to your fork**
-   ```bash
-   git push origin feature/add-new-problem
-   ```
-6. **Open a Pull Request**
+<details>
+<summary><b>Step-by-Step Contribution Guide</b></summary>
+
+#### 1. Fork & Clone
+```bash
+# Fork the repository on GitHub, then:
+git clone https://github.com/YOUR_USERNAME/Problem-Solving.git
+cd Problem-Solving
+```
+
+#### 2. Create a Branch
+```bash
+git checkout -b feature/add-problem-name
+```
+
+#### 3. Add Your Solution
+
+Create a new folder following this structure:
+```
+Category/Problem-Name/
+├── README.md
+└── solution.py
+```
+
+**README.md Template:**
+```markdown
+# Problem Name
+
+**Difficulty:** Easy/Medium/Hard  
+**Problem ID:** [LeetCode/HackerRank ID]  
+**Topics:** [Array, String, etc.]
+
+## Problem Statement
+[Clear description of the problem]
+
+## Constraints
+- [List all constraints]
+
+## Examples
+### Example 1:
+Input: [input]
+Output: [output]
+Explanation: [explanation]
+
+## Approach
+[Detailed explanation of the solution approach]
+
+## Complexity Analysis
+- **Time Complexity:** O(?)
+- **Space Complexity:** O(?)
+
+## Solution
+[Link to solution file or code block]
+```
+
+#### 4. Update Main README
+Add your problem to the appropriate table in the main README.md
+
+#### 5. Commit & Push
+```bash
+git add .
+git commit -m "Add solution for [Problem Name]"
+git push origin feature/add-problem-name
+```
+
+#### 6. Create Pull Request
+Open a PR on GitHub with a clear description of your changes
+
+</details>
 
 ### Contribution Guidelines
 
-- Follow the existing README template for consistency
-- Include clear variable names and comments in code
-- Test your solution with multiple test cases
-- Ensure proper formatting and grammar in documentation
-- Add the problem to the appropriate category in the main README
+- ✅ Follow the existing folder structure and naming conventions
+- ✅ Include comprehensive README with problem statement and explanation
+- ✅ Write clean, well-commented code
+- ✅ Test your solution with multiple test cases
+- ✅ Include time and space complexity analysis
+- ✅ Use meaningful variable names
+- ✅ Follow PEP 8 (Python) or relevant style guides
 
-### Reporting Issues
+### Areas for Contribution
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/Muhammed-Maklad/Problem-Solving/issues) with:
-- Clear description of the problem
-- Steps to reproduce (if applicable)
-- Expected vs actual behavior
-- Any relevant screenshots or code snippets
-
----
-
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-You are free to:
-- Use the code for personal or commercial projects
-- Modify and distribute the solutions
-- Use as learning material
-
-Attribution is appreciated but not required.
+- 🆕 Add new problem solutions
+- 📝 Improve existing documentation
+- 🐛 Fix bugs or errors in solutions
+- 🎨 Enhance code quality and readability
+- 🌐 Add solutions in additional languages (Java, C++, JavaScript)
+- ✅ Add unit tests for existing solutions
+- 📊 Create visualization or interactive tutorials
 
 ---
 
-## Contact
+## 💬 Support & Community
 
-**Maintainer:** Your Name
+### Get Help
 
-- GitHub: [@Muhammed-Maklad](https://github.com/Muhammed-Maklad)
-- Email: mo7amedmaklad@gmail.com
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/muhammed-maklad/)
+- 🐛 **Found a Bug?** [Open an Issue](https://github.com/Muhammed-Maklad/Problem-Solving/issues)
+- 💡 **Have a Suggestion?** [Start a Discussion](https://github.com/Muhammed-Maklad/Problem-Solving/discussions)
+- ❓ **Need Help?** Check existing issues or create a new one
 
-### Support
+### Stay Connected
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@Muhammed--Maklad-181717?style=for-the-badge&logo=github)](https://github.com/Muhammed-Maklad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammed-maklad/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:mo7amedmaklad@gmail.com)
+
+</div>
+
+### Show Your Support
 
 If you find this repository helpful, please consider:
-- ⭐ Starring the repository
-- 🐛 Reporting issues
-- 🔀 Contributing solutions
-- 📢 Sharing with others
+
+<table>
+<tr>
+<td align="center" width="33%">
+⭐ <b>Star the Repo</b><br>
+Help others discover it
+</td>
+<td align="center" width="33%">
+🔀 <b>Contribute</b><br>
+Add your solutions
+</td>
+<td align="center" width="33%">
+📢 <b>Share</b><br>
+Spread the word
+</td>
+</tr>
+</table>
+
+---
+
+## 📄 License
+
+**Full license:** [LICENSE](LICENSE)
+
+
 
 ---
 
 <div align="center">
-  <strong>Happy Coding! 🚀</strong>
-  <br>
-  <em>Keep practicing, stay consistent, and success will follow.</em>
+
+### 🌟 **Thank You for Visiting!** 🌟
+
+*"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie
+
+**Keep coding, keep learning, keep growing** 🚀
+
+---
+
+**Made with ❤️ by [Muhammed Maklad](https://github.com/Muhammed-Maklad)**
+
+[![GitHub followers](https://img.shields.io/github/followers/Muhammed-Maklad?style=social)](https://github.com/Muhammed-Maklad)
+[![GitHub stars](https://img.shields.io/github/stars/Muhammed-Maklad/Problem-Solving?style=social)](https://github.com/Muhammed-Maklad/Problem-Solving)
+
 </div>
