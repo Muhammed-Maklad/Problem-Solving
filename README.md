@@ -18,15 +18,19 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Repository Metrics](#repository-metrics)
-- [Problem Categories](#problem-categories)
-- [Getting Started](#getting-started)
-- [Usage Guide](#usage-guide)
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [Repository Metrics](#-repository-metrics)
+- [Problem Categories](#️-problem-categories)
+   - [Python](#️-problem-categories)
+      - [Array](#-array-problems)
+      - [String](#-string-problems)
+   - [SQL](#️-sql-problems)
+- [Getting Started](#-getting-started)
+- [Usage Guide](#installation)
 - [Contributing](#contributing)
-- [Support & Community](#support--community)
-- [License](#license)
+- [Support & Community](#-support--community)
+- [License](#-license)
 
 ---
 
@@ -75,6 +79,36 @@ This repository is a **production-ready resource** for software engineers prepar
 </td>
 </tr>
 </table>
+<hr>
+
+
+## 📊 Repository Metrics
+
+<div align="center">
+
+### Problem Distribution
+
+<img src="https://img.shields.io/badge/String_Problems-8-1cefff?labelColor=142634&style=for-the-badge&logo=atom" alt="String Problems">
+<img src="https://img.shields.io/badge/Array_Problems-9-7bff8a?labelColor=142634&style=for-the-badge&logo=buffer" alt="Array Problems">
+<img src="https://img.shields.io/badge/SQL_Problems-15-ffd166?labelColor=142634&style=for-the-badge&logo=postgresql" alt="SQL Problems">
+
+### Overall Statistics
+
+<img src="https://img.shields.io/badge/Total_Problems-32-12c2e9?labelColor=142634&style=for-the-badge&logo=checkmarx" alt="Total Problems">
+<img src="https://img.shields.io/badge/Languages-Python_|_SQL-203a43?labelColor=142634&style=for-the-badge&logo=stackshare" alt="Languages">
+
+</div>
+
+<div align="center">
+
+| Category | Count | Difficulty Range |
+|----------|-------|------------------|
+| **String Manipulation** | 8 | Easy - Medium |
+| **Array Algorithms** | 9 | Easy - Hard |
+| **SQL Queries** | 15 | Easy - Hard |
+| **Total** | **32** | **All Levels** |
+
+</div>
 
 
 ---
