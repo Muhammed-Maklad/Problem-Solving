@@ -170,6 +170,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 11 | [Trips and Users](./SQL/262.%20Trips%20and%20Users/Readme.md) | ![Hard](https://img.shields.io/badge/-Hard-d9534f) | 262 | Complex Joins, CASE |
 | 12 | [Department Highest Salary](./SQL/184.%20Department%20Highest%20Salary/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 184 | Subqueries, DENSE_RANK |
 | 13 | [Tree Node](./SQL/608.%20Tree%20Node/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 608 | CASE, Hierarchical Data |
+| 14 | [Managers with at Least 5 Direct Reports](./SQL/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 570 | Subqueries, Aggregation | 
+
 
 </details>
 
