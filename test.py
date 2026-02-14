@@ -1,14 +1,24 @@
-arr = [1, 2, 3, 4]
-n = len(arr)
+solution = 1
+n = 2
 
-result = [1] * n
+def cal (n):
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return cal(n - 1) +  cal(n - 2)
+    
 
-for x in range(1,n):
-    result[x] = arr[x-1] * result[x-1]
-
-right_pointer = arr[-1]
-for y in range(n-2,-1,-1):
-    result[y] *= right_pointer
-    right_pointer *= arr[y]
-
-print(result)
+print(cal(2))
+class Solution(object):
+    def climbStairs(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        def cal (n):
+            if n == 0 or n == 1:
+                return 1
+            else:
+                return cal(n - 1) +  cal(n - 2)
+        cal(n)
+    
