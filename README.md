@@ -131,6 +131,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 6 | [Excel Sheet Column Title](./Excel%20Sheet%20Column%20Title/EWADME.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 168 | Math, Base Conversion |
 | 7 | [Find Words Containing Character](./String/Find%20Words%20Containing%20Character/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 2942 | Array, String Search |
 | 8 | [Find Smallest Letter Greater Than Target](./String/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/ReadME.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 744 | Binary Search |
+|9| [Maximum Substrings With Distinct Start](./String/Maximum%20Substrings%20With%20Distinct%20Start/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 3760 | distinct characters |
+
 
 </details>
 
@@ -180,7 +182,7 @@ This repository is a **production-ready resource** for software engineers prepar
 ### 💥 Dynamic Programming 
 
 <details open>
-<summary><b>View All Dynamic Programming Problems (15)</b></summary>
+<summary><b>View All Dynamic Programming Problems (1)</b></summary>
 
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
