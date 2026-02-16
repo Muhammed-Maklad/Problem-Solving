@@ -104,10 +104,10 @@ This repository is a **production-ready resource** for software engineers prepar
 
 | Category | Count | Difficulty Range |
 |----------|-------|------------------|
-| **String Manipulation** | 8 | Easy - Medium |
+| **String Manipulation** | 9 | Easy - Medium |
 | **Array Algorithms** | 9 | Easy - Hard |
 | **SQL Queries** | 15 | Easy - Hard |
-| **Total** | **32** | **All Levels** |
+| **Total** | **33** | **All Levels** |
 
 </div>
 
@@ -175,6 +175,7 @@ This repository is a **production-ready resource** for software engineers prepar
 | 13 | [Tree Node](./SQL/608.%20Tree%20Node/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 608 | CASE, Hierarchical Data |
 | 14 | [Managers with at Least 5 Direct Reports](./SQL/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 570 | Subqueries, Aggregation | 
 | 15 | [Triangle Judgement](./SQL/610.%20Triangle%20Judgement/README.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 610 | CASE |
+| 16 | [Actors and Directors Who Cooperated At Least Three Times](./SQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times/README.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)    | 1050 | Aggregation 
 
 
 
