@@ -89,13 +89,14 @@ This repository is a **production-ready resource** for software engineers prepar
 
 ### Problem Distribution
 
-<img src="https://img.shields.io/badge/String_Problems-8-1cefff?labelColor=142634&style=for-the-badge&logo=atom" alt="String Problems">
-<img src="https://img.shields.io/badge/Array_Problems-9-7bff8a?labelColor=142634&style=for-the-badge&logo=buffer" alt="Array Problems">
-<img src="https://img.shields.io/badge/SQL_Problems-15-ffd166?labelColor=142634&style=for-the-badge&logo=postgresql" alt="SQL Problems">
+<img src="https://img.shields.io/badge/String_Problems-9-1cefff?labelColor=142634&style=for-the-badge&logo=atom" alt="String Problems">
+<img src="https://img.shields.io/badge/Array_Problems-8-7bff8a?labelColor=142634&style=for-the-badge&logo=buffer" alt="Array Problems">
+<img src="https://img.shields.io/badge/SQL_Problems-17-ffd166?labelColor=142634&style=for-the-badge&logo=postgresql" alt="SQL Problems">
+<img src="https://img.shields.io/badge/Dynamic_programming-1-e1376b?labelColor=142634&style=for-the-badge&logo=programming" alt="Dynamic programming">
 
 ### Overall Statistics
 
-<img src="https://img.shields.io/badge/Total_Problems-32-12c2e9?labelColor=142634&style=for-the-badge&logo=checkmarx" alt="Total Problems">
+<img src="https://img.shields.io/badge/Total_Problems-35-12c2e9?labelColor=142634&style=for-the-badge&logo=checkmarx" alt="Total Problems">
 <img src="https://img.shields.io/badge/Languages-Python_|_SQL-203a43?labelColor=142634&style=for-the-badge&logo=stackshare" alt="Languages">
 
 </div>
@@ -105,9 +106,10 @@ This repository is a **production-ready resource** for software engineers prepar
 | Category | Count | Difficulty Range |
 |----------|-------|------------------|
 | **String Manipulation** | 9 | Easy - Medium |
-| **Array Algorithms** | 9 | Easy - Hard |
-| **SQL Queries** | 15 | Easy - Hard |
-| **Total** | **33** | **All Levels** |
+| **Array Algorithms** | 8 | Easy - Hard |
+| **SQL Queries** | 17 | Easy - Hard |
+| **SQL Queries**  | 1 | Easy | 
+| **Total** | **35** | **All Levels** |
 
 </div>
 
@@ -119,7 +121,7 @@ This repository is a **production-ready resource** for software engineers prepar
 ### 🔤 String Problems
 
 <details open>
-<summary><b>View All String Problems (8)</b></summary>
+<summary><b>View All String Problems (9)</b></summary>
 
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
@@ -139,7 +141,7 @@ This repository is a **production-ready resource** for software engineers prepar
 ### 📊 Array Problems
 
 <details open>
-<summary><b>View All Array Problems (9)</b></summary>
+<summary><b>View All Array Problems (7)</b></summary>
 
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
@@ -156,7 +158,7 @@ This repository is a **production-ready resource** for software engineers prepar
 ### 🗄️ SQL Problems
 
 <details open>
-<summary><b>View All SQL Problems (15)</b></summary>
+<summary><b>View All SQL Problems (17)</b></summary>
 
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
