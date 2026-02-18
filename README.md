@@ -179,7 +179,9 @@ This repository is a **production-ready resource** for software engineers prepar
 | 15 | [Triangle Judgement](./SQL/610.%20Triangle%20Judgement/README.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 610 | CASE |
 | 16 | [Actors and Directors Who Cooperated At Least Three Times](./SQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times/README.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)    | 1050 | Aggregation |
 | 17 | [Customers Who Bought All Products](./SQL/1045.%20Customers%20Who%20Bought%20All%20Products/README.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 1045 | Subqueries, Aggregation|
-| 18 |
+| 18 | [Project Employees ](./SQL/1075.%20Project%20Employees%20I/) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   | 1075 | Aggregation , JOIN    |
+| 19 | [1084. Sales Analysis III](./SQL/1084.%20Sales%20Analysis%20III/READme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |  1084  | Aggregation , JOIN |
+| 20 | 
 
 </details>
 
