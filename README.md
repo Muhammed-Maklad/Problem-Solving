@@ -107,9 +107,9 @@ This repository is a **production-ready resource** for software engineers prepar
 |----------|-------|------------------|
 | **String Manipulation** | 9 | Easy - Medium |
 | **Array Algorithms** | 8 | Easy - Hard |
-| **SQL Queries** | 17 | Easy - Hard |
+| **SQL Queries** | 20 | Easy - Hard |
 | **SQL Queries**  | 1 | Easy | 
-| **Total** | **35** | **All Levels** |
+| **Total** | **38** | **All Levels** |
 
 </div>
 
@@ -158,7 +158,7 @@ This repository is a **production-ready resource** for software engineers prepar
 ### 🗄️ SQL Problems
 
 <details open>
-<summary><b>View All SQL Problems (17)</b></summary>
+<summary><b>View All SQL Problems (20)</b></summary>
 
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
@@ -180,8 +180,10 @@ This repository is a **production-ready resource** for software engineers prepar
 | 16 | [Actors and Directors Who Cooperated At Least Three Times](./SQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times/README.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)    | 1050 | Aggregation |
 | 17 | [Customers Who Bought All Products](./SQL/1045.%20Customers%20Who%20Bought%20All%20Products/README.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 1045 | Subqueries, Aggregation|
 | 18 | [Project Employees ](./SQL/1075.%20Project%20Employees%20I/) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   | 1075 | Aggregation , JOIN    |
-| 19 | [1084. Sales Analysis III](./SQL/1084.%20Sales%20Analysis%20III/READme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |  1084  | Aggregation , JOIN |
-| 20 | 
+| 19 | [Sales Analysis III](./SQL/1084.%20Sales%20Analysis%20III/READme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |  1084  | Aggregation , JOIN |
+| 20 | [User Activity for the Past 30 Days I](./SQL/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I/) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |  1141  | Aggregation , HAVING |
+| 21 |
+
 
 </details>
 
