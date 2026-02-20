@@ -182,7 +182,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 18 | [Project Employees ](./SQL/1075.%20Project%20Employees%20I/) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   | 1075 | Aggregation , JOIN    |
 | 19 | [Sales Analysis III](./SQL/1084.%20Sales%20Analysis%20III/READme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |  1084  | Aggregation , JOIN |
 | 20 | [User Activity for the Past 30 Days I](./SQL/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I/) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |  1141  | Aggregation , HAVING |
-| 21 |
+| 21 | [Market Analysis I](./SQL/1158.%20Market%20Analysis%20I/Readme.MD) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 1158 | Aggregation , LEFT Join | 
+| 22 | 
 
 
 </details>
