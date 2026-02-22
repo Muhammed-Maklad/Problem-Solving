@@ -1,5 +1,5 @@
 # 1164. Product Price at a Given Date
-# 585. Investments in 2016
+
 
 
 ## Diffculty : Medium
