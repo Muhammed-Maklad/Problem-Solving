@@ -185,7 +185,9 @@ This repository is a **production-ready resource** for software engineers prepar
 | 21 | [Market Analysis I](./SQL/1158.%20Market%20Analysis%20I/Readme.MD) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 1158 | Aggregation , LEFT Join | 
 | 22 | [List the Products Ordered in a Period](./SQL/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period/) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1327 |  Aggregation ,  Join |
 | 23 | [Product Price at a Given Date] |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |1164 | Window Functions, Grouping , JOIN |
-| 24 | [ Group Sold Products By The Date](./SQL/1484.%20Group%20Sold%20Products%20By%20The%20Date/) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   |1484 | String Aggregation 
+| 24 | [ Group Sold Products By The Date](./SQL/1484.%20Group%20Sold%20Products%20By%20The%20Date/) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   |1484 | String Aggregation |
+| 25 | [Top Travellers] |   ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1407  |  Left JOIN , Aggregation |
+| 26 |   |    |   | 
 
 
 </details>
