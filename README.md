@@ -184,10 +184,10 @@ This repository is a **production-ready resource** for software engineers prepar
 | 20 | [User Activity for the Past 30 Days I](./SQL/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I/) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |  1141  | Aggregation , HAVING |
 | 21 | [Market Analysis I](./SQL/1158.%20Market%20Analysis%20I/Readme.MD) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 1158 | Aggregation , LEFT Join | 
 | 22 | [List the Products Ordered in a Period](./SQL/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period/) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1327 |  Aggregation ,  Join |
-| 23 | [Product Price at a Given Date] |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |1164 | Window Functions, Grouping , JOIN |
+| 23 | [Product Price at a Given Date](./SQL/1164.%20Product%20Price%20at%20a%20Given%20Date/Readme.md) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |1164 | Window Functions, Grouping , JOIN |
 | 24 | [ Group Sold Products By The Date](./SQL/1484.%20Group%20Sold%20Products%20By%20The%20Date/) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   |1484 | String Aggregation |
-| 25 | [Top Travellers] |   ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1407  |  Left JOIN , Aggregation |
-| 26 |   |    |   | 
+| 25 | [Top Travellers](./SQL/1407.%20Top%20Travellers/Readme.MD ) |   ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1407  |  Left JOIN , Aggregation |
+| 26 | [Capital Gain or Loss](./SQL/1393.%20Capital%20Gain%20or%20Loss/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |  1393  | CASE , Aggregation | 
 
 
 </details>
