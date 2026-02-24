@@ -187,8 +187,9 @@ This repository is a **production-ready resource** for software engineers prepar
 | 23 | [Product Price at a Given Date](./SQL/1164.%20Product%20Price%20at%20a%20Given%20Date/Readme.md) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |1164 | Window Functions, Grouping , JOIN |
 | 24 | [ Group Sold Products By The Date](./SQL/1484.%20Group%20Sold%20Products%20By%20The%20Date/) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   |1484 | String Aggregation |
 | 25 | [Top Travellers](./SQL/1407.%20Top%20Travellers/Readme.MD ) |   ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1407  |  Left JOIN , Aggregation |
-| 26 | [Capital Gain or Loss](./SQL/1393.%20Capital%20Gain%20or%20Loss/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |  1393  | CASE , Aggregation | 
-
+| 26 | [Capital Gain or Loss](./SQL/1393.%20Capital%20Gain%20or%20Loss/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |  1393  | CASE , Aggregation |
+| 27 | [ Patients With a Condition](./SQL/1527.%20Patients%20With%20a%20Condition/Readme.md)  | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)    | 1527 | Like  |
+| 28 | 
 
 </details>
 
@@ -201,6 +202,7 @@ This repository is a **production-ready resource** for software engineers prepar
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
 | 1 | [Climbing Stairs](./Dynamic%20Programming/70.%20Climbing%20Stairs/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 70 | Math , DP , Memoization |
+
 
 </details>
 
