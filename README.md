@@ -91,7 +91,7 @@ This repository is a **production-ready resource** for software engineers prepar
 
 <img src="https://img.shields.io/badge/String_Problems-9-1cefff?labelColor=142634&style=for-the-badge&logo=atom" alt="String Problems">
 <img src="https://img.shields.io/badge/Array_Problems-8-7bff8a?labelColor=142634&style=for-the-badge&logo=buffer" alt="Array Problems">
-<img src="https://img.shields.io/badge/SQL_Problems-17-ffd166?labelColor=142634&style=for-the-badge&logo=postgresql" alt="SQL Problems">
+<img src="https://img.shields.io/badge/SQL_Problems-26-ffd166?labelColor=142634&style=for-the-badge&logo=postgresql" alt="SQL Problems">
 <img src="https://img.shields.io/badge/Dynamic_programming-1-e1376b?labelColor=142634&style=for-the-badge&logo=programming" alt="Dynamic programming">
 
 ### Overall Statistics
@@ -107,9 +107,9 @@ This repository is a **production-ready resource** for software engineers prepar
 |----------|-------|------------------|
 | **String Manipulation** | 9 | Easy - Medium |
 | **Array Algorithms** | 8 | Easy - Hard |
-| **SQL Queries** | 20 | Easy - Hard |
+| **SQL Queries** | 26 | Easy - Hard |
 | **SQL Queries**  | 1 | Easy | 
-| **Total** | **38** | **All Levels** |
+| **Total** | **44** | **All Levels** |
 
 </div>
 
@@ -158,7 +158,7 @@ This repository is a **production-ready resource** for software engineers prepar
 ### 🗄️ SQL Problems
 
 <details open>
-<summary><b>View All SQL Problems (20)</b></summary>
+<summary><b>View All SQL Problems (26)</b></summary>
 
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
