@@ -189,7 +189,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 25 | [Top Travellers](./SQL/1407.%20Top%20Travellers/Readme.MD ) |   ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1407  |  Left JOIN , Aggregation |
 | 26 | [Capital Gain or Loss](./SQL/1393.%20Capital%20Gain%20or%20Loss/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |  1393  | CASE , Aggregation |
 | 27 | [ Patients With a Condition](./SQL/1527.%20Patients%20With%20a%20Condition/Readme.md)  | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)    | 1527 | Like  |
-| 28 | 
+| 28 | [Calculate Special Bouns](./SQL/1873.%20Calculate%20Special%20Bonus/Readme.md) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   | 1873 | substring |
+| 29 | 
 
 </details>
 
