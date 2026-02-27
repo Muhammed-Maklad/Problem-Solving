@@ -191,7 +191,9 @@ This repository is a **production-ready resource** for software engineers prepar
 | 27 | [ Patients With a Condition](./SQL/1527.%20Patients%20With%20a%20Condition/Readme.md)  | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)    | 1527 | Like  |
 | 28 | [Calculate Special Bouns](./SQL/1873.%20Calculate%20Special%20Bonus/Readme.md) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   | 1873 | substring |
 | 29 | [Average Time of Process per Machine](./SQL/1661.%20Average%20Time%20of%20Process%20per%20Machine/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   |1661 | CASE |
-|30 | [Bank Account Summary II](./SQL/1587.%20Bank%20Account%20Summary%20II/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)    |1587 | Join , AGG | 
+|30 | [Bank Account Summary II](./SQL/1587.%20Bank%20Account%20Summary%20II/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)    |1587 | Join , AGG |
+| 31 | [Monthly Transactions I](./SQL/1193.%20Monthly%20Transactions%20I/Readme.md) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)  | 1193 | AGG |
+| 32 | 
 
 </details>
 
