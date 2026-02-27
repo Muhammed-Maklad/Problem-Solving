@@ -152,6 +152,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 5 | [Merge Intervals](./Array/56.%20Merge%20Intervals/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 56 | Sorting, Intervals |
 | 6 | [Group Anagrams](./String/49.%20Group%20Anagrams/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 49 | Hash Table, Sorting |
 | 7 | [Product of Array Except Self](./Array/238.%20Product%20of%20Array%20Except%20Self/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 238 | Prefix Sum, Space Optimization |
+| 8 | [Squares of a Sorted Array](./Array/977.%20Squares%20of%20a%20Sorted%20Array/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  |977 | Two Pointer | 
+| 9 | 
 
 </details>
 
