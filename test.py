@@ -1,2 +1,1 @@
-s = ["h","e","l","l","o"]
-print(s[::-1] == ["o","l","l","e","h"])
+print('depi.gov.eg' == 'depi.gov.eg')
