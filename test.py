@@ -1,5 +1,2 @@
-nums = [-4,-1,0,3,10]
-
-nums = [x**2 for x in nums]
-
-print(nums.sort())
+s = ["h","e","l","l","o"]
+print(s[::-1] == ["o","l","l","e","h"])

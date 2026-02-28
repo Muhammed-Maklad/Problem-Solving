@@ -195,7 +195,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 29 | [Average Time of Process per Machine](./SQL/1661.%20Average%20Time%20of%20Process%20per%20Machine/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   |1661 | CASE |
 |30 | [Bank Account Summary II](./SQL/1587.%20Bank%20Account%20Summary%20II/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)    |1587 | Join , AGG |
 | 31 | [Monthly Transactions I](./SQL/1193.%20Monthly%20Transactions%20I/Readme.md) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)  | 1193 | AGG |
-| 32 | 
+| 32 | [Find Users With Valid E-Mails](./SQL/1517.%20Find%20Users%20With%20Valid%20E-Mails/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1517 | REGEXP |
+|33| 
 
 </details>
 
