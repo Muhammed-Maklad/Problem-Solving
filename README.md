@@ -197,7 +197,9 @@ This repository is a **production-ready resource** for software engineers prepar
 | 31 | [Monthly Transactions I](./SQL/1193.%20Monthly%20Transactions%20I/Readme.md) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)  | 1193 | AGG |
 | 32 | [Find Users With Valid E-Mails](./SQL/1517.%20Find%20Users%20With%20Valid%20E-Mails/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1517 | REGEXP |
 |33| [Find Valid Emails](./SQL/3436.%20Find%20Valid%20Emails/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)   | 3436 |REGEXP |
-| 34 | 
+| 34 | [Find Users with High Token Usage](./SQL/3793.%20Find%20Users%20with%20High%20Token%20Usage/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3793 | AGG |
+| 35 | [Percentage of Users Attended a Contest](./SQL/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1633 | AGG |
+| 36 | 
 
 </details>
 
