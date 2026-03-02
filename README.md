@@ -200,7 +200,7 @@ This repository is a **production-ready resource** for software engineers prepar
 | 34 | [Find Users with High Token Usage](./SQL/3793.%20Find%20Users%20with%20High%20Token%20Usage/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3793 | AGG |
 | 35 | [Percentage of Users Attended a Contest](./SQL/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1633 | AGG |
 | 36 | [Odd and Even Transactions](./SQL/3220.%20Odd%20and%20Even%20Transactions/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)   |3220 | AGG , CASE | 
-| 37 | 
+| 37 | [DNA Pattern Recognition](./SQL/3475.%20DNA%20Pattern%20Recognition/Read.md) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)      |3475 | CASE, LIKE , Right | 
 
 </details>
 
