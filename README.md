@@ -202,7 +202,7 @@ This repository is a **production-ready resource** for software engineers prepar
 | 36 | [Odd and Even Transactions](./SQL/3220.%20Odd%20and%20Even%20Transactions/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)   |3220 | AGG , CASE | 
 | 37 | [DNA Pattern Recognition](./SQL/3475.%20DNA%20Pattern%20Recognition/Read.md) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)      |3475 | CASE, LIKE , Right | 
 | 38 | [Immediate Food Delivery II](./SQL/1174.%20Immediate%20Food%20Delivery%20II/Readme.MD) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |1174 | AGG , SUBQuery |
-|39|
+|39| [Count Salary Categories](./SQL/1907.%20Count%20Salary%20Categories/Readme.MD) |   ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)  | 1907 | UNION ALL |
 |40|
 
 </details>
