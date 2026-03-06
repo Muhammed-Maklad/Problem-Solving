@@ -203,7 +203,9 @@ This repository is a **production-ready resource** for software engineers prepar
 | 37 | [DNA Pattern Recognition](./SQL/3475.%20DNA%20Pattern%20Recognition/Read.md) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)      |3475 | CASE, LIKE , Right | 
 | 38 | [Immediate Food Delivery II](./SQL/1174.%20Immediate%20Food%20Delivery%20II/Readme.MD) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |1174 | AGG , SUBQuery |
 |39| [Count Salary Categories](./SQL/1907.%20Count%20Salary%20Categories/Readme.MD) |   ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)  | 1907 | UNION ALL |
-|40| [Seasonal Sales Analysis](./SQL/3564.%20Seasonal%20Sales%20Analysis/Readme.md) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |3564 | SUB , AGG 
+|40| [Seasonal Sales Analysis](./SQL/3564.%20Seasonal%20Sales%20Analysis/Readme.md) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |3564 | SUB , AGG |
+|41 | [Number of Unique Subjects Taught by Each Teacher](./SQL/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/Readme.md) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 2356 | AGG | 
+|42| 
 
 </details>
 
