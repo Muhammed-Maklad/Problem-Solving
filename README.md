@@ -107,9 +107,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |----------|-------|------------------|
 | **String Manipulation** | 9 | Easy - Medium |
 | **Array Algorithms** | 8 | Easy - Hard |
-| **SQL Queries** | 26 | Easy - Hard |
-| **SQL Queries**  | 1 | Easy | 
-| **Total** | **44** | **All Levels** |
+| **SQL Queries** | 41 | Easy - Hard |
+| **Total** | **58** | **All Levels** |
 
 </div>
 
@@ -160,7 +159,7 @@ This repository is a **production-ready resource** for software engineers prepar
 ### 🗄️ SQL Problems
 
 <details open>
-<summary><b>View All SQL Problems (26)</b></summary>
+<summary><b>View All SQL Problems (41)</b></summary>
 
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
