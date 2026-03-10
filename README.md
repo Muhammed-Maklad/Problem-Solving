@@ -206,7 +206,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |41 | [Number of Unique Subjects Taught by Each Teacher](./SQL/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/Readme.md) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 2356 | AGG | 
 |42| [Exchange Seats](./SQL/626.%20Exchange%20Seats/readme.md) |   ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)  | 626 | Lead , Lag , case |
 |43 | [Game Play Analysis IV](./SQL/550.%20Game%20Play%20Analysis%20IV/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)    |550 | SUB , AGG , DATEDIFF |
-|44 | 
+|44 | [Find Zombie Sessions](./SQl/3673.%20Find%20Zombie%20Sessions/Readme.md)  | ![Hard](https://img.shields.io/badge/-Hard-d9534f) |3673  | AGG , TIMESTAMPDIFF |
+|45 | 
 
 </details>
 
