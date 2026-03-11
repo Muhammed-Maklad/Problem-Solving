@@ -159,7 +159,7 @@ This repository is a **production-ready resource** for software engineers prepar
 ### 🗄️ SQL Problems
 
 <details open>
-<summary><b>View All SQL Problems (41)</b></summary>
+<summary><b>View All SQL Problems (46)</b></summary>
 
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
