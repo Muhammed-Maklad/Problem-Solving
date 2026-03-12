@@ -220,7 +220,7 @@ This repository is a **production-ready resource** for software engineers prepar
 
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
-| 1 | [Climbing Stairs](./Dynamic%20Programming/70.%20Climbing%20Stairs/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 70 | Math , DP , Memoization |
+| 1 | [Climbing Stairs](./Dynamic%20Programming/70.%20Climbing%20Stairs/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 70 | Math , DP , Memoization |
 
 
 </details>
