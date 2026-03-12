@@ -26,6 +26,7 @@
       - [Array](#-array-problems)
       - [String](#-string-problems)
       - [Dynamic Programming](#-dynamic-programming)
+      - [Two Pointers](#-two-pointers)
    - [SQL](#️-sql-problems)
 - [Getting Started](#-getting-started)
 - [Usage Guide](#installation)
@@ -133,8 +134,7 @@ This repository is a **production-ready resource** for software engineers prepar
 | 7 | [Find Words Containing Character](./String/Find%20Words%20Containing%20Character/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 2942 | Array, String Search |
 | 8 | [Find Smallest Letter Greater Than Target](./String/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/ReadME.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 744 | Binary Search |
 |9| [Maximum Substrings With Distinct Start](./String/Maximum%20Substrings%20With%20Distinct%20Start/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 3760 | distinct characters |
-
-
+| 10 | [Excel Sheet Column Title](./String/Excel%20Sheet%20Column%20Title/EWADME.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 168 | Math , ASSCI | 
 </details>
 
 ### 📊 Array Problems
@@ -221,6 +221,19 @@ This repository is a **production-ready resource** for software engineers prepar
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
 | 1 | [Climbing Stairs](./Dynamic%20Programming/70.%20Climbing%20Stairs/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 70 | Math , DP , Memoization |
+
+
+</details>
+
+
+### 💥 Two Pointers
+
+<details open>
+<summary><b>View All Two Pointers (1)</b></summary>
+
+| # | Problem | Difficulty | ID | Key Concepts |
+|---|---------|------------|----|--------------|
+|1| [Happy Number](./Two%20Pointers/202.%20Happy%20Number/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c) |202 | Math 
 
 
 </details>
