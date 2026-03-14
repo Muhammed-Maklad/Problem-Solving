@@ -213,6 +213,7 @@ This repository is a **production-ready resource** for software engineers prepar
 | 48 | [Students and Examinations](./SQL/1280.%20Students%20and%20Examinations/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1280 |Cross JOIN |
 |49 | [Confirmation Rate](./SQL/1934.%20Confirmation%20Rate/Readme.MD) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 1934 | Left JOIN |
 | 50 | [Average Selling Price](./SQL/1251.%20Average%20Selling%20Price/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1251 | Left JOIN , AGG |
+|51| 
 </details>
 
 

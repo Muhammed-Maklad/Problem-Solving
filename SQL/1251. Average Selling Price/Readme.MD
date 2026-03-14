@@ -42,6 +42,7 @@ The result format is in the following example.
 
 ---
 
+
 ## Examples :
 
 ### Example 1:
