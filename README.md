@@ -211,7 +211,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |46| [ Fix Names in a Table](./SQL/1667.%20Fix%20Names%20in%20a%20Table/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1667 | Select , Where |
 | 47 | [ Recyclable and Low Fat Products](./SQL/1757.%20Recyclable%20and%20Low%20Fat%20Products/readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  |1757 | Select , Where  |
 | 48 | [Students and Examinations](./SQL/1280.%20Students%20and%20Examinations/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1280 |Cross JOIN |
-|49 | 
+|49 | [Confirmation Rate](./SQL/1934.%20Confirmation%20Rate/Readme.MD) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 1934 | Left JOIN |
+| 50 | 
 </details>
 
 
