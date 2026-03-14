@@ -217,7 +217,7 @@ This repository is a **production-ready resource** for software engineers prepar
 </details>
 
 
-### 💥 Dynamic Programming 
+### 🧠 Dynamic Programming 
 
 <details open>
 <summary><b>View All Dynamic Programming Problems (1)</b></summary>
@@ -228,7 +228,6 @@ This repository is a **production-ready resource** for software engineers prepar
 
 </details>
 
-gi
 ### 💥 Two Pointers
 
 <details open>
