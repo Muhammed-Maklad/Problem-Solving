@@ -1,20 +1,15 @@
-def isHappy(n):
-    """
-    :type n: int
-    :rtype: bool
-    """
-    if n == 11 or n == 7 :
-        return True
-    elif n < 10 :
-        return False
-    
-    else:
-        sum = 0 
-        while n > 0 :
-            temp = n%10
-            sum += temp*temp
-            n= n//10
-        return isHappy(sum) 
-    
+def Binary(arr , target):
+    start = 0 
+    end = len(arr)-1
 
-print(isHappy(19))
+    while start <= end :
+        mid = (start + end) // 2
+        if arr[mid] == target:
+            return mid
+        elif target > arr[mid] :
+            start = mid+1
+        else : 
+            end = mid-1
+    
+    return -1
+

@@ -156,6 +156,17 @@ This repository is a **production-ready resource** for software engineers prepar
 | 8 | [Squares of a Sorted Array](./Array/977.%20Squares%20of%20a%20Sorted%20Array/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  |977 | Two Pointer | 
 | 9 | 
 
+
+</details>
+### 📊 Binary Search
+
+<details open>
+<summary><b>View All Binary Search()</b></summary>
+
+| # | Problem | Difficulty | ID | Key Concepts |
+|---|---------|------------|----|--------------| 
+| 1 | [Binary Search](./Binary%20Search/704.%20Binary%20Search/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 704 | basic Binary Search topic |
+| 2| 
 </details>
 
 ### 🗄️ SQL Problems
