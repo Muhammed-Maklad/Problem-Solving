@@ -229,7 +229,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |51| [Employees Whose Manager Left the Company](./SQL/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1978 | SubQuery|
 |52| [Find Followers Count](./SQL/1729.%20Find%20Followers%20Count/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1729 | AGG |
 |53| [Product Sales Analysis III](./SQL/1070.%20Product%20Sales%20Analysis%20III/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |1070 | RANK |
-| 54 | 
+| 54 | [The Number of Employees Which Report to Each Employee](./SQL/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c) |1731 | Self JOIN |
+|55| 
 </details>
 
 
