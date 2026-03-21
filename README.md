@@ -231,8 +231,9 @@ This repository is a **production-ready resource** for software engineers prepar
 |53| [Product Sales Analysis III](./SQL/1070.%20Product%20Sales%20Analysis%20III/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) |1070 | RANK |
 | 54 | [The Number of Employees Which Report to Each Employee](./SQL/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c) |1731 | Self JOIN |
 |55| [1204. Last Person to Fit in the Bus](./SQL/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)    |  1204 | SubQuery |
-|56 | [Find Total Time Spent by Each Employee](./SQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee/Readme.MD) | 1741 | Agg |
-| 57 | 
+|56 | [Find Total Time Spent by Each Employee](./SQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1741 | Agg |
+| 57 | [Restaurant Growth](./SQL/1321.%20Restaurant%20Growth/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)  | 1321 | CTE |
+|58 | 
 </details>
 
 
