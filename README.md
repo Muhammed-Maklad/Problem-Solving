@@ -233,7 +233,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |55| [1204. Last Person to Fit in the Bus](./SQL/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)    |  1204 | SubQuery |
 |56 | [Find Total Time Spent by Each Employee](./SQL/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1741 | Agg |
 | 57 | [Restaurant Growth](./SQL/1321.%20Restaurant%20Growth/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)  | 1321 | CTE |
-|58 | 
+|58 | [Daily Leads and Partners](./SQL/1693.%20Daily%20Leads%20and%20Partners/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1693 | Window Functions 
+| 59 | 
 </details>
 
 
