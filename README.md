@@ -235,7 +235,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 57 | [Restaurant Growth](./SQL/1321.%20Restaurant%20Growth/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)  | 1321 | CTE |
 |58 | [Daily Leads and Partners](./SQL/1693.%20Daily%20Leads%20and%20Partners/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 1693 | Window Functions 
 | 59 | [ Movie Rating](./SQL/1341.%20Movie%20Rating/Readme.MD) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)   | 1341 | CTE , Window Functions
-|60 | 
+|60 | [Find Students Who Improved](./SQL/3421.%20Find%20Students%20Who%20Improved/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3421 | CTE , AGG , Window Functions |
+| 61 |
 </details>
 
 
