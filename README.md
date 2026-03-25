@@ -330,8 +330,10 @@ This repository is a **production-ready resource** for software engineers prepar
 |58 | [Daily Leads and Partners](./SQL/1693.%20Daily%20Leads%20and%20Partners/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1693 | COUNT DISTINCT, GROUP BY, Window Functions |
 | 59 | [ Movie Rating](./SQL/1341.%20Movie%20Rating/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 1341 | CTE, UNION ALL, RANK, Top-N Per Group |
 |60 | [Find Students Who Improved](./SQL/3421.%20Find%20Students%20Who%20Improved/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3421 | CTE, MIN/MAX, Window Functions, Comparison |
-| 61 |
-</details>
+| 61 | [The Latest Login in 2020](./SQL/1890.%20The%20Latest%20Login%20in%202020/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1890 | MIN/MAX,GROUP BY |
+|62 |
+
+</details> 
 
 
 ### 🧠 Dynamic Programming 
@@ -628,3 +630,4 @@ Spread the word
 [![GitHub stars](https://img.shields.io/github/stars/Muhammed-Maklad/Problem-Solving?style=social)](https://github.com/Muhammed-Maklad/Problem-Solving)
 
 </div>
+
