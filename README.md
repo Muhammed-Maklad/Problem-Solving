@@ -334,7 +334,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |60 | [Find Students Who Improved](./SQL/3421.%20Find%20Students%20Who%20Improved/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3421 | CTE, MIN/MAX, Window Functions, Comparison |
 | 61 | [The Latest Login in 2020](./SQL/1890.%20The%20Latest%20Login%20in%202020/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1890 | MIN/MAX,GROUP BY |
 |62 |[nalyze Subscription Conversion](./SQL/3497.%20Analyze%20Subscription%20Conversion/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3497 |  |
-|63| 
+|63| [Employees With Missing Information](./SQL/1965.%20Employees%20With%20Missing%20Information/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) |1965 | Left Join , Union ALL |
+|64| 
 
 </details> 
 
