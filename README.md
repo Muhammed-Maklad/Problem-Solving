@@ -204,6 +204,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 3 | 📈 Restaurant Growth | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | [View](./SQL/1321.%20Restaurant%20Growth/Readme.MD) |
 | 4 | 🧟 Find Zombie Sessions | ![Hard](https://img.shields.io/badge/-Hard-d9534f) | [View](./SQL/3673.%20Find%20Zombie%20Sessions/Readme.md) |
 | 5 | ⏱️ Avg Time per Machine | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | [View](./SQL/1661.%20Average%20Time%20of%20Process%20per%20Machine/Readme.md) |
+|6| 📈 Analyze Subscription Conversion |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | [View](./SQL/3497.%20Analyze%20Subscription%20Conversion/Readme.MD) |
+|7| 
 
 </div>
 
@@ -331,7 +333,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 59 | [ Movie Rating](./SQL/1341.%20Movie%20Rating/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 1341 | CTE, UNION ALL, RANK, Top-N Per Group |
 |60 | [Find Students Who Improved](./SQL/3421.%20Find%20Students%20Who%20Improved/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3421 | CTE, MIN/MAX, Window Functions, Comparison |
 | 61 | [The Latest Login in 2020](./SQL/1890.%20The%20Latest%20Login%20in%202020/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1890 | MIN/MAX,GROUP BY |
-|62 |
+|62 |[nalyze Subscription Conversion](./SQL/3497.%20Analyze%20Subscription%20Conversion/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3497 |  |
+|63| 
 
 </details> 
 
