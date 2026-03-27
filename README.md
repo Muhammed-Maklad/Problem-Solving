@@ -335,7 +335,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 61 | [The Latest Login in 2020](./SQL/1890.%20The%20Latest%20Login%20in%202020/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 1890 | MIN/MAX,GROUP BY |
 |62 |[nalyze Subscription Conversion](./SQL/3497.%20Analyze%20Subscription%20Conversion/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3497 |  |
 |63| [Employees With Missing Information](./SQL/1965.%20Employees%20With%20Missing%20Information/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) |1965 | Left Join , Union ALL |
-|64| 
+|64| [Rearrange Products Table](./SQL/1795.%20Rearrange%20Products%20Table/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1795 | UNPIVOT |
+| 65| 
 
 </details> 
 
