@@ -155,7 +155,7 @@ This repository is a **production-ready resource** for software engineers prepar
  
 ![String](https://img.shields.io/badge/String-11_Problems-1cefff?labelColor=0f172a&style=for-the-badge&logo=atom)
 ![Array](https://img.shields.io/badge/Array-8_Problems-7bff8a?labelColor=0f172a&style=for-the-badge&logo=buffer)
-![SQL](https://img.shields.io/badge/SQL-60_Problems-ffd166?labelColor=0f172a&style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-65_Problems-ffd166?labelColor=0f172a&style=for-the-badge&logo=postgresql)
 ![DP](https://img.shields.io/badge/Dynamic_Programming-1_Problem-e1376b?labelColor=0f172a&style=for-the-badge)
 ![Binary Search](https://img.shields.io/badge/Binary_Search-1_Problem-a855f7?labelColor=0f172a&style=for-the-badge)
 ![Two Pointers](https://img.shields.io/badge/Two_Pointers-1_Problem-f97316?labelColor=0f172a&style=for-the-badge)
