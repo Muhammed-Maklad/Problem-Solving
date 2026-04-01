@@ -250,7 +250,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 7 | [Product of Array Except Self](./Array/238.%20Product%20of%20Array%20Except%20Self/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 238 | Prefix & Suffix Products, O(1) Space |
 | 8 | [Squares of a Sorted Array](./Array/977.%20Squares%20of%20a%20Sorted%20Array/Readme.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 977 | Two Pointers, Sorted Output |
 | 9 | [Minimum Operations to Make Array Sum Divisible by K](./Array/3512.%20Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K/Readme.Md)  | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3512 | Array , Math
-|10| 
+|10| [Divisible and Non-divisible Sums Difference](./Array/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 2894 | Math |
+|11| 
 
 </details>
 
