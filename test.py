@@ -1,6 +1,9 @@
-order = [3,1,2,5,4]
-friends = [1,3,4]
+test = ["X++","++X","--X","X--"]
+res = 0 
+for x in test:
+    if "-" in x:
+        res -= 1
+    else:
+        res += 1
 
-
-res = list(set(order) & set(friends))
 print(res)
