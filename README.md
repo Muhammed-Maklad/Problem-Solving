@@ -252,7 +252,7 @@ This repository is a **production-ready resource** for software engineers prepar
 | 9 | [Minimum Operations to Make Array Sum Divisible by K](./Array/3512.%20Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K/Readme.Md)  | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3512 | Array , Math
 |10| [Divisible and Non-divisible Sums Difference](./Array/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 2894 | Math |
 |11| [Final Value of Variable After Performing Operations](./Array/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)|2011 | Array |
-| 12 | 
+| 12 | [ Defanging an IP Address](./Array/1108.%20Defanging%20an%20IP%20Address/Readme.MD)  |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1108 | Array |
 
 </details>
 
