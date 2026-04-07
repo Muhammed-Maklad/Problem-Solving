@@ -231,7 +231,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |9| [Maximum Substrings With Distinct Start](./String/Maximum%20Substrings%20With%20Distinct%20Start/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 3760 | Greedy, Set Tracking, Distinct Characters |
 | 10 | [Excel Sheet Column Title](./String/Excel%20Sheet%20Column%20Title/EWADME.md) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 168 | Base-26 Math, ASCII Offset |
 |11| [Count Commas in Range](./String/3870.%20Count%20Commas%20in%20Range/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3870 | Math, Range Formula, Count Logic |
-|12| 
+|12| [1684. Count the Number of Consistent Strings](./String/1684.%20Count%20the%20Number%20of%20Consistent%20Strings/readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)|1684 | Bit Manipulation |
+| 13 | 
 </details>
 
 ### 📊 Array Problems
