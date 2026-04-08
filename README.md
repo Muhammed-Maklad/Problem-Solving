@@ -255,7 +255,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |11| [Final Value of Variable After Performing Operations](./Array/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)|2011 | Array |
 | 12 | [ Defanging an IP Address](./Array/1108.%20Defanging%20an%20IP%20Address/Readme.MD)  |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1108 | Array |
 |13| [Shuffle the Array](./Array/1470.%20Shuffle%20the%20Array/readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)|1270 | Math|
-|14 |  
+|14 |  [Convert the Temperature](./Array/2469.%20Convert%20the%20Temperature/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)|2469 | Math |
+| 15| 
 
 </details>
 
