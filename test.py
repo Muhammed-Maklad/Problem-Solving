@@ -1,5 +1,7 @@
-allowed = "ab"
+nums = [0,2,1,5,3,4]
+ans = nums.copy()
 
-words = ["ad","bd","aaab","baa","badab"]
+for i in range(len(nums)):
+    ans[i] = nums[nums[i]]
 
-print(set(words))
+print(ans)
