@@ -1,7 +1,11 @@
-nums = [0,2,1,5,3,4]
-ans = nums.copy()
+# char = 'z'
+# result = 26 - (ord(char) % 97) 
+# print(result)
+s =  "abc"
+index , res = 1 , 0
+for char in s:
+    Assci = 26 - (ord(char) % 97) 
+    res += Assci*index
+    index+=1
 
-for i in range(len(nums)):
-    ans[i] = nums[nums[i]]
-
-print(ans)
+print(res)

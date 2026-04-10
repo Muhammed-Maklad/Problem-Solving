@@ -379,7 +379,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------|
 |1| [Find Closest Person](./Math/3516.%20Find%20Closest%20Person/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |  3516 | mid Level |
-|2| 
+|2| [Find the Maximum Achievable Number](./Math/2769.%20Find%20the%20Maximum%20Achievable%20Number/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 2769 |  |
+|3| 
 
 
 </details>
