@@ -1,11 +1,7 @@
-# char = 'z'
-# result = 26 - (ord(char) % 97) 
-# print(result)
-s =  "abc"
-index , res = 1 , 0
-for char in s:
-    Assci = 26 - (ord(char) % 97) 
-    res += Assci*index
-    index+=1
-
+date = "2080-02-29" 
+data = date.split("-")
+res = ""
+for x in range(len(data)) :
+    num = bin(int(data[x]))[2:]
+    res += num 
 print(res)
