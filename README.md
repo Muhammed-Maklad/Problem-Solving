@@ -259,7 +259,7 @@ This repository is a **production-ready resource** for software engineers prepar
 |13| [Shuffle the Array](./Array/1470.%20Shuffle%20the%20Array/readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)|1270 | Math|
 |14 |  [Convert the Temperature](./Array/2469.%20Convert%20the%20Temperature/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)|2469 | Math |
 | 15| [1920. Build Array from Permutation](./Array/1920.%20Build%20Array%20from%20Permutation/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1920 | 
-| 16| 
+| 16| [Left and Right Sum Differences](./Array/2574.%20Left%20and%20Right%20Sum%20Differences/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2574 | 
 </details>
 
 ### 📊 Binary Search
