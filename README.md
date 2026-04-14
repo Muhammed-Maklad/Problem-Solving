@@ -234,7 +234,7 @@ This repository is a **production-ready resource** for software engineers prepar
 |12| [1684. Count the Number of Consistent Strings](./String/1684.%20Count%20the%20Number%20of%20Consistent%20Strings/readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)|1684 | Bit Manipulation |
 | 13 | [Reverse Degree of a String](./String/3498.%20Reverse%20Degree%20of%20a%20String/Readme.MD) |   ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3498 | Math, ASSCI, Count Logic | 
 |14| [Convert Date to Binary](./String/3280.%20Convert%20Date%20to%20Binary/) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3280 | Binary |
-| 15 | 
+| 15 | [Find Most Frequent Vowel and Consonant](./String/3541.%20Find%20Most%20Frequent%20Vowel%20and%20Consonant/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3541 | Count |
 </details>
 
 ### 📊 Array Problems
