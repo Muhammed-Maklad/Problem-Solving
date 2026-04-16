@@ -367,7 +367,7 @@ This repository is a **production-ready resource** for software engineers prepar
 
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------|
-|1| [Happy Number](./Two%20Pointers/202.%20Happy%20Number/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) |202 | Floyd's Cycle Detection, Fast & Slow Pointer |
+|1| [Happy Number](./Two%20Pointers/202.%20Happy%20Number/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) |202 | Floyd's Cycle Detection, Fast & Slow Pointer | 
 
 
 </details>
@@ -383,7 +383,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |1| [Find Closest Person](./Math/3516.%20Find%20Closest%20Person/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |  3516 | mid Level |
 |2| [Find the Maximum Achievable Number](./Math/2769.%20Find%20the%20Maximum%20Achievable%20Number/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 2769 |  |
 |3| [Smallest Even Multiple](./Math/2413.%20Smallest%20Even%20Multiple/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2313 | 
-| 4 | 
+| 4 | [Mirror Distance of an Integer](./Math/3783.%20Mirror%20Distance%20of%20an%20Integer/Readme.MD) |   | 3783 | Reverse Integer |
+| 5 | 
 
 
 </details>
