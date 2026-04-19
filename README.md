@@ -265,7 +265,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 15| [1920. Build Array from Permutation](./Array/1920.%20Build%20Array%20from%20Permutation/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1920 | 
 | 16| [Left and Right Sum Differences](./Array/2574.%20Left%20and%20Right%20Sum%20Differences/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2574 |
 |17| [ Create Target Array in the Given Order](./Array/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1389 |     |
-| 18 |
+| 18 | [ Transform Array by Parity](./Array/3467.%20Transform%20Array%20by%20Parity/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3467 | remainder of the division |
+| 19 | 
 
 
 
