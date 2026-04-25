@@ -267,7 +267,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |17| [ Create Target Array in the Given Order](./Array/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1389 |     |
 | 18 | [ Transform Array by Parity](./Array/3467.%20Transform%20Array%20by%20Parity/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3467 | remainder of the division |
 | 19 | [1480. Running Sum of 1d Array](./Array/1480.%20Running%20Sum%20of%201d%20Array/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1480 | cumulative sum |
-| 20 | 
+| 20 | [ompute Alternating Sum] |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3701 | Sum|
+| 21 | 
 
 
 
