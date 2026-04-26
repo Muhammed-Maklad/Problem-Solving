@@ -236,7 +236,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |14| [Convert Date to Binary](./String/3280.%20Convert%20Date%20to%20Binary/) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3280 | Binary |
 | 15 | [Find Most Frequent Vowel and Consonant](./String/3541.%20Find%20Most%20Frequent%20Vowel%20and%20Consonant/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3541 | Count |
 | 16 | [Jewels and Stones](./String/771.%20Jewels%20and%20Stones/Readme.MD) |    | 771 | Hash Table |
-| 17 | 
+| 17 | [Reverse String Prefix](./String/3794.%20Reverse%20String%20Prefix/readme.md) |     | 3794 | Reverse Sub Strig |
+| 18 | 
 
 
 </details>
@@ -267,7 +268,7 @@ This repository is a **production-ready resource** for software engineers prepar
 |17| [ Create Target Array in the Given Order](./Array/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1389 |     |
 | 18 | [ Transform Array by Parity](./Array/3467.%20Transform%20Array%20by%20Parity/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3467 | remainder of the division |
 | 19 | [1480. Running Sum of 1d Array](./Array/1480.%20Running%20Sum%20of%201d%20Array/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1480 | cumulative sum |
-| 20 | [ompute Alternating Sum] |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3701 | Sum|
+| 20 | [Compute Alternating Sum](./Array/3701.%20Compute%20Alternating%20Sum/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3701 | Sum|
 | 21 | 
 
 
