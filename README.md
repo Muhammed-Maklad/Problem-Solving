@@ -235,9 +235,10 @@ This repository is a **production-ready resource** for software engineers prepar
 | 13 | [Reverse Degree of a String](./String/3498.%20Reverse%20Degree%20of%20a%20String/Readme.MD) |   ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3498 | Math, ASSCI, Count Logic | 
 |14| [Convert Date to Binary](./String/3280.%20Convert%20Date%20to%20Binary/) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3280 | Binary |
 | 15 | [Find Most Frequent Vowel and Consonant](./String/3541.%20Find%20Most%20Frequent%20Vowel%20and%20Consonant/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3541 | Count |
-| 16 | [Jewels and Stones](./String/771.%20Jewels%20and%20Stones/Readme.MD) |    | 771 | Hash Table |
-| 17 | [Reverse String Prefix](./String/3794.%20Reverse%20String%20Prefix/readme.md) |     | 3794 | Reverse Sub Strig |
-| 18 | 
+| 16 | [Jewels and Stones](./String/771.%20Jewels%20and%20Stones/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 771 | Hash Table |
+| 17 | [Reverse String Prefix](./String/3794.%20Reverse%20String%20Prefix/readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3794 | Reverse Sub Strig |
+| 18 | [Goal Parser Interpretation](./String/1678.%20Goal%20Parser%20Interpretation/Readme.md)  |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1678 | Count Parser's |
+| 19 | 
 
 
 </details>
