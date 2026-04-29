@@ -1,14 +1,6 @@
-command = "G()()()()(al)"
-result = ""
+nums = [10, 12, 13, 14]
 
-for x in range (len(command)):
-    if command[x] == "G":
-        result += "G"
-    elif command[x:x+2] == "()" :
-        result += "o"
-    elif command[x:x+4] == "(al)" :
-        result += "al"
-    else:
-        pass
+for x in range(len(nums)):
+    nums[x] = sum(int(d) for d in str(nums[x]))
 
-print(result)
+print(nums)
