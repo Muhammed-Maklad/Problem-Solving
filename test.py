@@ -1,6 +1,9 @@
-nums = [10, 12, 13, 14]
+cost = [1,2,3]
+cost.sort(reverse=True)
+total = 0
+for x in range(1,len(cost)):
+    if x % 3 != 2:
 
-for x in range(len(nums)):
-    nums[x] = sum(int(d) for d in str(nums[x]))
+     total += cost[x]
 
-print(nums)
+print(total)

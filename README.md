@@ -271,7 +271,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 19 | [1480. Running Sum of 1d Array](./Array/1480.%20Running%20Sum%20of%201d%20Array/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1480 | cumulative sum |
 | 20 | [Compute Alternating Sum](./Array/3701.%20Compute%20Alternating%20Sum/Readme.MD) |  ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3701 | Sum|
 | 21 | [3300. Minimum Element After Replacement With Digit Sum](./Array/3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3300 | sum of its digits |
-| 22| 
+| 22| [2144. Minimum Cost of Buying Candies With Discount](./Array/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2144 | Sorting , Two Pointers |
+| 23 | 
 
 </details>
 
@@ -674,4 +675,3 @@ Spread the word
 [![GitHub stars](https://img.shields.io/github/stars/Muhammed-Maklad/Problem-Solving?style=social)](https://github.com/Muhammed-Maklad/Problem-Solving)
 
 </div>
-
