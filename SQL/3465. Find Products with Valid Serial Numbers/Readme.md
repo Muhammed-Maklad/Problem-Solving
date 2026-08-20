@@ -1,62 +1,70 @@
-# 3465. Find Products with Valid Serial Numbers
+# 🚀 Simple Solution Step By Step With 100% Beat Submissions (I am Sure you will understand it)
 
-## Difficulty : Easy
 
-## Description :
+![alt text](image.png)
+### 🚀 The 1-Line Logical Steps
 
-**Table:** `products`
+**1️⃣ Grab the Products:** We want to show the full product details, so we simply select everything.
 
-| Column Name | Type |
-| --- | --- |
-| product_id | int |
-| product_name | varchar |
-| description | varchar |
+```sql
+SELECT *
+FROM products
 
-`product_id` is the unique key for this table.
-Each row in the table represents a product with its unique ID, name, and description.
+```
 
-Write a solution to find all products whose description contains a valid serial number pattern. A valid serial number follows these rules:
+**2️⃣ The Padding Trick:** We glue a blank space to the front and back of the text. This guarantees our serial number will always have "room to breathe" on both sides, even if it's the very first or very last word in the sentence!
 
-* It starts with the letters **SN** (case-sensitive).
-* Followed by exactly **4 digits**.
-* It must have a hyphen (**-**) followed by exactly **4 digits**.
-* The serial number must be within the description (it may not necessarily start at the beginning).
+```sql
+WHERE CONCAT(' ', description, ' ')
 
-Return the result table ordered by `product_id` in **ascending** order.
+```
+
+**3️⃣ The Strict Pattern Scanner:** Let's break down the sketch:
+
+* `%` means "any random text."
+* `[^A-Za-z0-9]` is a "wall" (like a space or comma) so the serial isn't glued to another word.
+* `SN` is exactly the letters SN.
+* `[0-9][0-9][0-9][0-9]` is exactly 4 digits.
+* `-` is a dash.
+* Then 4 more digits, and a final "wall" at the end so we don't accidentally accept 5-digit numbers!
+
+```sql
+      LIKE '%[^A-Za-z0-9]SN[0-9][0-9][0-9][0-9]-[0-9][0-9][0-9][0-9][^A-Za-z0-9]%'  
+
+```
+
+**4️⃣ The Case-Sensitive Enforcer:** SQL usually ignores capital letters by default. The `COLLATE` command forces the database to only accept uppercase `SN` and completely reject lowercase `sn`.
+
+```sql
+      COLLATE Latin1_General_100_BIN2
+
+```
+
+**5️⃣ Line Them Up:** Sort the final list of valid products chronologically by their ID number.
+
+```sql
+ORDER BY product_id;
+
+```
 
 ---
 
-## Examples :
+## 💻 The Final Assembled Code
 
-### Example 1:
-
-**Input:**
-`products` table:
-
-| product_id | product_name | description |
-| --- | --- | --- |
-| 1 | Widget A | This is a sample product with SN1234-5678 |
-| 2 | Widget B | A product with serial SN9876-1234 in the description |
-| 3 | Widget C | Product SN1234-56789 is available now |
-| 4 | Widget D | No serial number here |
-| 5 | Widget E | Check out SN4321-8765 in this description |
-
-**Output:**
-
-| product_id | product_name | description |
-| --- | --- | --- |
-| 1 | Widget A | This is a sample product with SN1234-5678 |
-| 2 | Widget B | A product with serial SN9876-1234 in the description |
-| 5 | Widget E | Check out SN4321-8765 in this description |
-
-### Explanation:
+```sql
+/* Write your T-SQL query statement below */
+SELECT *
+FROM products
+WHERE CONCAT(' ', description, ' ')
+      LIKE '%[^A-Za-z0-9]SN[0-9][0-9][0-9][0-9]-[0-9][0-9][0-9][0-9][^A-Za-z0-9]%'  
+      COLLATE Latin1_General_100_BIN2
+ORDER BY product_id;
 
 ```
-Product 1: Valid serial number SN1234-5678
-Product 2: Valid serial number SN9876-1234
-Product 3: Invalid serial number SN1234-56789 (contains 5 digits after the hyphen)
-Product 4: No serial number in the description
-Product 5: Valid serial number SN4321-8765
-The result table is ordered by product_id in ascending order.
 
-```
+---
+
+## ⚡ Complexity
+
+* ⏳ **Time Complexity:** O(N * M) — Where N is the number of rows and M is the average length of the description. The database must scan every single character to check if the sketch matches.
+* 💾 **Space Complexity:** O(N) — The `CONCAT` function creates a temporary padded version of the description string in memory for the database to scan.
