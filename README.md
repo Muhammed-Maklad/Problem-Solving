@@ -358,7 +358,10 @@ This repository is a **production-ready resource** for software engineers prepar
 |62 |[nalyze Subscription Conversion](./SQL/3497.%20Analyze%20Subscription%20Conversion/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3497 |  |
 |63| [Employees With Missing Information](./SQL/1965.%20Employees%20With%20Missing%20Information/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) |1965 | Left Join , Union ALL |
 |64| [Rearrange Products Table](./SQL/1795.%20Rearrange%20Products%20Table/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1795 | UNPIVOT |
-| 65| [Find Consistently Improving Employees](./SQL/3580.%20Find%20Consistently%20Improving%20Employees/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3580 | CTE , Lead , lag , AGG 
+| 65| [Find Consistently Improving Employees](./SQL/3580.%20Find%20Consistently%20Improving%20Employees/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3580 | CTE , Lead , lag , AGG |
+| 66| [Find Products with Valid Serial Numbers](./SQL/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers/Readme.md)  |![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3465  | Regex | 
+
+
 
 </details> 
 
