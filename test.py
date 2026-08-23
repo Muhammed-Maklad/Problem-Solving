@@ -1,9 +1,7 @@
-cost = [1,2,3]
-cost.sort(reverse=True)
-total = 0
-for x in range(1,len(cost)):
-    if x % 3 != 2:
+matrix = [[0,1,0],[1,0,0],[0,0,0]]
+ans = []
 
-     total += cost[x]
+for mat in matrix:
+    ans.append(sum(mat))
 
-print(total)
+print(ans)
