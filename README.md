@@ -273,7 +273,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 21 | [3300. Minimum Element After Replacement With Digit Sum](./Array/3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3300 | sum of its digits |
 | 22| [2144. Minimum Cost of Buying Candies With Discount](./Array/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2144 | Sorting , Two Pointers |
 | 23 | [Find the Degree of Each Vertex](./Array/3898.%20Find%20the%20Degree%20of%20Each%20Vertex/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3898 | Graph Theory, Matrix |
-| 24 | 
+| 24 | [Concatenate Array With Reverse](./Array/3925.%20Concatenate%20Array%20With%20Reverse/readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3925 | Array , Simulation |
+| 25 | 
 
 
 </details>

@@ -1,7 +1,3 @@
-matrix = [[0,1,0],[1,0,0],[0,0,0]]
-ans = []
+nums = [1,2,3]
 
-for mat in matrix:
-    ans.append(sum(mat))
-
-print(ans)
+print()
