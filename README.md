@@ -405,8 +405,9 @@ This repository is a **production-ready resource** for software engineers prepar
 |1| [Find Closest Person](./Math/3516.%20Find%20Closest%20Person/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |  3516 | mid Level |
 |2| [Find the Maximum Achievable Number](./Math/2769.%20Find%20the%20Maximum%20Achievable%20Number/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 2769 |  |
 |3| [Smallest Even Multiple](./Math/2413.%20Smallest%20Even%20Multiple/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2313 | 
-| 4 | [Mirror Distance of an Integer](./Math/3783.%20Mirror%20Distance%20of%20an%20Integer/Readme.MD) |   | 3783 | Reverse Integer |
-| 5 | 
+| 4 | [Mirror Distance of an Integer](./Math/3783.%20Mirror%20Distance%20of%20an%20Integer/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3783 | Reverse Integer |
+| 5 | [7. Reverse Integer](./Math/7.%20Reverse%20Integer/readme.md) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 7 | Reverse loop | 
+| 6 |
 
 
 </details>
