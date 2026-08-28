@@ -274,7 +274,7 @@ This repository is a **production-ready resource** for software engineers prepar
 | 22| [2144. Minimum Cost of Buying Candies With Discount](./Array/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2144 | Sorting , Two Pointers |
 | 23 | [Find the Degree of Each Vertex](./Array/3898.%20Find%20the%20Degree%20of%20Each%20Vertex/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3898 | Graph Theory, Matrix |
 | 24 | [Concatenate Array With Reverse](./Array/3925.%20Concatenate%20Array%20With%20Reverse/readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3925 | Array , Simulation |
-| 25 | 
+| 25 | [Find Minimum Operations to Make All Elements Divisible by Three](./Array/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/Readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3910 | Math 
 
 
 </details>
