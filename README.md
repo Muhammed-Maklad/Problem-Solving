@@ -238,7 +238,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 16 | [Jewels and Stones](./String/771.%20Jewels%20and%20Stones/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 771 | Hash Table |
 | 17 | [Reverse String Prefix](./String/3794.%20Reverse%20String%20Prefix/readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3794 | Reverse Sub Strig |
 | 18 | [Goal Parser Interpretation](./String/1678.%20Goal%20Parser%20Interpretation/Readme.md)  |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1678 | Count Parser's |
-| 19 | 
+| 19 | [125. Valid Palindrome](./String/125.%20Valid%20Palindrome/Readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 125 | Two Pointer |
+| 20 | 
 
 
 </details>

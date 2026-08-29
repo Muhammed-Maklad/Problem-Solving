@@ -1,10 +1,7 @@
-nums =  [3,6,9]
-steps = 0
-for x in nums :
-    if x % 3 == 0:
-        steps += 0
-    else:
-        mod = x % 3
-        steps += min(abs(x-mod), x+3)
+s = "race a car"
+res = ""
+for alpha in s :
+    if alpha.isalpha() :
+        res += alpha.lower()
 
-print(steps)
+print(res == res [::-1])
