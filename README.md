@@ -408,7 +408,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |3| [Smallest Even Multiple](./Math/2413.%20Smallest%20Even%20Multiple/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2313 | 
 | 4 | [Mirror Distance of an Integer](./Math/3783.%20Mirror%20Distance%20of%20an%20Integer/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3783 | Reverse Integer |
 | 5 | [7. Reverse Integer](./Math/7.%20Reverse%20Integer/readme.md) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 7 | Reverse loop | 
-| 6 |
+| 6 | [3945. Digit Frequency Score](./Math/3945.%20Digit%20Frequency%20Score/Readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3945 | Map , Freqancy , Hash | |
+| 7 | 
 
 
 </details>
