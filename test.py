@@ -1,14 +1,3 @@
-n = 101
-n = str(n)
-data_list = list(n)
-frequency = {}
-
-for item in data_list:
-    frequency[item] = frequency.get(item, 0) + 1
-
-print(sum(map(lambda x: int(x) * frequency[x], frequency)))
-
-# n = 101
-# n = str(n)
-
-# print(sum(map(int, n)))
+accounts = [[1,5],[7,3],[3,5]]
+total = [sum (x) for x in accounts]
+print(max(total))
