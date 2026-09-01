@@ -1,3 +1,7 @@
-accounts = [[1,5],[7,3],[3,5]]
-total = [sum (x) for x in accounts]
-print(max(total))
+n = 4
+SumOdd = sum(range(1, 2*n, 2))
+SumEven = sum(range(2, 2*n , 2))
+print(SumEven - SumOdd)
+
+print(SumEven)
+print(SumOdd)
