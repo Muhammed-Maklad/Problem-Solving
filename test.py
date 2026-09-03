@@ -1,3 +1,4 @@
-n = 7
-Totoal = sum(x for x in range(1, n+1) if x % 3 == 0 or x % 5 == 0 or x % 7 == 0 )
-print(Totoal)
+hours = [0,1,2,3,4]
+target = 2
+total = sum(1 for x in hours if target <= x)
+print(total)
