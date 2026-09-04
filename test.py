@@ -1,4 +1,7 @@
-hours = [0,1,2,3,4]
-target = 2
-total = sum(1 for x in hours if target <= x)
-print(total)
+nums = [13,25,83,77]
+res =[]
+for num in reversed(nums):
+    while num > 0:
+        res.append(num % 10)
+        num //= 10
+print(res[::-1])

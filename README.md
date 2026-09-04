@@ -278,7 +278,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 25 | [Find Minimum Operations to Make All Elements Divisible by Three](./Array/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/Readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3910 | Math |
 | 26 | [ Richest Customer Wealth](./Array/1672.%20Richest%20Customer%20Wealth/Readme.Md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1672 | Math |
 | 27 | [2798. Number of Employees Who Met the Target](./Array/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target/Readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |2798|  Counting  |
-| 28| 
+| 28| [ Separate the Digits in an Array](./Array/2553.%20Separate%20the%20Digits%20in%20an%20Array/Readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2533 | Simulation |
+|29| 
 
 
 </details>
