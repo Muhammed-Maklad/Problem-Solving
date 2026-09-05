@@ -1,7 +1,8 @@
-nums = [13,25,83,77]
-res =[]
-for num in reversed(nums):
-    while num > 0:
-        res.append(num % 10)
-        num //= 10
-print(res[::-1])
+A = [1,3,2,4]
+B = [3,1,2,4]
+res = []
+for x in range(len(A)):
+    common = set(A[0:x+1]) & set(B[0:x+1])
+    res.append(len(common))
+
+print(res)

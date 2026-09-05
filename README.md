@@ -279,8 +279,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 26 | [ Richest Customer Wealth](./Array/1672.%20Richest%20Customer%20Wealth/Readme.Md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1672 | Math |
 | 27 | [2798. Number of Employees Who Met the Target](./Array/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target/Readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c) |2798|  Counting  |
 | 28| [ Separate the Digits in an Array](./Array/2553.%20Separate%20the%20Digits%20in%20an%20Array/Readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2533 | Simulation |
-|29| 
-
+|29| [Find the Prefix Common Array of Two Arrays](./Array/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 2657 | Hash Table |
+| 30 |
 
 </details>
 
