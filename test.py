@@ -1,8 +1,25 @@
-A = [1,3,2,4]
-B = [3,1,2,4]
-res = []
-for x in range(len(A)):
-    common = set(A[0:x+1]) & set(B[0:x+1])
-    res.append(len(common))
 
-print(res)
+num1 = 4848
+num2 = 4848
+total = 0
+
+for number in range(num1, num2 + 1):
+
+    length = len(str(number))
+
+    if length < 3:
+        continue
+
+    x = 1
+
+    while x < length - 1:
+
+        if (str(number)[x] > str(number)[x + 1] and str(number)[x] > str(number)[x - 1]) or \
+           (str(number)[x] < str(number)[x + 1] and str(number)[x] < str(number)[x - 1]):
+
+            total += 1
+
+        x += 1
+
+print(total)
+
