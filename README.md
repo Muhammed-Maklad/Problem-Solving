@@ -239,7 +239,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 17 | [Reverse String Prefix](./String/3794.%20Reverse%20String%20Prefix/readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3794 | Reverse Sub Strig |
 | 18 | [Goal Parser Interpretation](./String/1678.%20Goal%20Parser%20Interpretation/Readme.md)  |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1678 | Count Parser's |
 | 19 | [125. Valid Palindrome](./String/125.%20Valid%20Palindrome/Readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 125 | Two Pointer |
-| 20 | 
+| 20 | [ Weighted Word Mapping](./String/3838.%20Weighted%20Word%20Mapping/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3838 | Array , Hex |
+| 21| 
 
 
 </details>
