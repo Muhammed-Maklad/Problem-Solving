@@ -420,7 +420,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 8 |  [2652. Sum Multiples](./Math/2652.%20Sum%20Multiples/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)     | 2652 | Math |
 | 9 | [2396. Strictly Palindromic Number](./Math/2396.%20Strictly%20Palindromic%20Number/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 2396 | Senior , Math , Two Pointers |
 | 10 | [3751. Total Waviness of Numbers in Range I](./Math/3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3751 |  DP |
-| 11 | 
+| 11 | [Add Two Integers](./Math/2235.%20Add%20Two%20Integers/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 2235 | SUm |
+| 12 |
 
 
 </details>
