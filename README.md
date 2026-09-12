@@ -283,7 +283,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 28| [ Separate the Digits in an Array](./Array/2553.%20Separate%20the%20Digits%20in%20an%20Array/Readme.md) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2533 | Simulation |
 |29| [Find the Prefix Common Array of Two Arrays](./Array/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays/Readme.md) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 2657 | Hash Table |
 | 30 | [Arithmetic Subarrays](./Array/1630.%20Arithmetic%20Subarrays/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1630 | Arithmetic Sequence | 
-| 31| 
+| 31| [Count Digit Appearances](./Array/3895.%20Count%20Digit%20Appearances/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3895 | Count | 
+| 32 | 
 
 </details>
 
