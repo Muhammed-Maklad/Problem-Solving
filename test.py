@@ -1,9 +1,13 @@
-nums = [1,34,7]
-digit = 9
-digit = str(digit)
-result = 0
+nums = [3,1,-2,-5,2,-4]
+pos , neg = 0 , 1
+res =  [0] * len(nums)
 
 for num in nums:
-    result += str(num).count(digit)
+    if num > 0 :
+        res[pos] = num
+        pos += 2
+    else:
+        res[neg] = num 
+        neg += 2
 
-print(result)
+print(res)
