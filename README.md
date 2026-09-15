@@ -424,7 +424,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 10 | [3751. Total Waviness of Numbers in Range I](./Math/3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3751 |  DP |
 | 11 | [Add Two Integers](./Math/2235.%20Add%20Two%20Integers/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)  | 2235 | SUm |
 | 12 | [ Check if Number is a Sum of Powers of Three](./Math/1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1780 | Rule |
-| 13 |
+| 13 | [Count Sorted Vowel Strings](./Math/1641.%20Count%20Sorted%20Vowel%20Strings/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1641 | combo |
+| 14 |
 
 
 </details>
