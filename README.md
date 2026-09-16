@@ -285,7 +285,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 30 | [Arithmetic Subarrays](./Array/1630.%20Arithmetic%20Subarrays/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1630 | Arithmetic Sequence | 
 | 31| [Count Digit Appearances](./Array/3895.%20Count%20Digit%20Appearances/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3895 | Count | 
 | 32 | [Rearrange Array Elements by Sign](./Array/2149.%20Rearrange%20Array%20Elements%20by%20Sign/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 2149 |  Hashing |
-| 33 | 
+| 33 | [Maximum Ice Cream Bars](./Array/1833.%20Maximum%20Ice%20Cream%20Bars/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1833 | Greedy |
+| 34 | 
 
 </details>
 
