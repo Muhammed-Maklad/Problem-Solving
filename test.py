@@ -19,11 +19,9 @@
 # res.append(nums)
 # print(res)
 
-s = "abc"
-indices = [0,1,2]
-newS = [0]*len(s)
+candies = [2,3,5,1,3]
+extraCandies = 3
+MaxCh= max(candies)
+res = [True if x + extraCandies >= MaxCh else False for x in candies]
 
-for i in range(len(s)):
-    newS[indices[i]] = s[i]
-
-print(''.join(i for i in newS))
+print(res)

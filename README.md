@@ -287,7 +287,9 @@ This repository is a **production-ready resource** for software engineers prepar
 | 31| [Count Digit Appearances](./Array/3895.%20Count%20Digit%20Appearances/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3895 | Count | 
 | 32 | [Rearrange Array Elements by Sign](./Array/2149.%20Rearrange%20Array%20Elements%20by%20Sign/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 2149 |  Hashing |
 | 33 | [Maximum Ice Cream Bars](./Array/1833.%20Maximum%20Ice%20Cream%20Bars/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1833 | Greedy |
-| 34 | 
+| 34 | [Kids With the Greatest Number of Candies](./Array/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1431 | Loop |
+| 35 |
+
 
 </details>
 
