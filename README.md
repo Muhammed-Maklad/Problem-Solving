@@ -378,7 +378,9 @@ This repository is a **production-ready resource** for software engineers prepar
 | 65| [Find Consistently Improving Employees](./SQL/3580.%20Find%20Consistently%20Improving%20Employees/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3580 | CTE , Lead , lag , AGG |
 | 66| [Find Products with Valid Serial Numbers](./SQL/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers/Readme.md)  |![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3465  | Regex | 
 | 67 | [Find Category Recommendation Pairs](./SQL/3554.%20Find%20Category%20Recommendation%20Pairs/Readme.md) |![Hard](https://img.shields.io/badge/-Hard-d9534f)| 3554 | CTE |
-| 68 | 
+| 68 | [Human Traffic of Stadium](./SQL/601.%20Human%20Traffic%20of%20Stadium/Readme.MD) |![Hard](https://img.shields.io/badge/-Hard-d9534f)| 601 | CTE , RoW Number |
+| 60 | 
+
 
 
 
