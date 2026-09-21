@@ -1,6 +1,10 @@
-nums = [5,1]
-minnum = min(nums)
-maxnum = max(nums)
+nums = [1,4,7,10,15]
+k = 5
+def check(nums, k):
+    nums = set(nums)
+    x = k
+    while x in nums:
+        x += k
+    return x
 
-res = [ x for x in range(minnum,maxnum) if x not in nums]
-print(res)
+print(check(nums,k))
