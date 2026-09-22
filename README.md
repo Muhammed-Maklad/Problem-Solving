@@ -288,9 +288,10 @@ This repository is a **production-ready resource** for software engineers prepar
 | 32 | [Rearrange Array Elements by Sign](./Array/2149.%20Rearrange%20Array%20Elements%20by%20Sign/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 2149 |  Hashing |
 | 33 | [Maximum Ice Cream Bars](./Array/1833.%20Maximum%20Ice%20Cream%20Bars/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1833 | Greedy |
 | 34 | [Kids With the Greatest Number of Candies](./Array/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1431 | Loop |
-| 35 | [3731. Find Missing Elements](./Array/3731.%20Find%20Missing%20Elements/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3731 | Loop |
-| 36 | [3718. Smallest Missing Multiple of K](./Array/3718.%20Smallest%20Missing%20Multiple%20of%20K/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3718 | Hash Table |
-| 37 |
+| 35 | [Find Missing Elements](./Array/3731.%20Find%20Missing%20Elements/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3731 | Loop |
+| 36 | [Smallest Missing Multiple of K](./Array/3718.%20Smallest%20Missing%20Multiple%20of%20K/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3718 | Hash Table |
+| 37 | [ Number of Good Pairs](./Array/1512.%20Number%20of%20Good%20Pairs/Readme.MD) |[Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1512 | Hash Table |
+| 38 | 
 
 
 </details>

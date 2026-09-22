@@ -1,10 +1,12 @@
-nums = [1,4,7,10,15]
-k = 5
-def check(nums, k):
-    nums = set(nums)
-    x = k
-    while x in nums:
-        x += k
-    return x
+nums = [1, 2, 3, 1, 1, 3]
 
-print(check(nums,k))
+freq = {}
+res = 0
+
+for num in nums:
+    if num in freq:
+        res += freq[num]
+
+    freq[num] = freq.get(num, 0) + 1
+
+print(res)
