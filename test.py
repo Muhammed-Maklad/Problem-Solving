@@ -1,12 +1,17 @@
-nums = [1, 2, 3, 1, 1, 3]
+nums = [5,6,7,8,9]
+x = 4
+k = sum(nums) - x 
+res = 0 
+current_sum = 0 
+left = 0
+for right, num in enumerate(nums):
 
-freq = {}
-res = 0
+    current_sum += num
 
-for num in nums:
-    if num in freq:
-        res += freq[num]
+    while current_sum > k:
+        current_sum -= nums[left]
+        left += 1 
+    if current_sum == k:
+        res = max(res , right - left + 1)
 
-    freq[num] = freq.get(num, 0) + 1
-
-print(res)
+print(-1 if res <= 0 else len(nums) - res)

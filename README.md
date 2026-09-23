@@ -291,7 +291,9 @@ This repository is a **production-ready resource** for software engineers prepar
 | 35 | [Find Missing Elements](./Array/3731.%20Find%20Missing%20Elements/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3731 | Loop |
 | 36 | [Smallest Missing Multiple of K](./Array/3718.%20Smallest%20Missing%20Multiple%20of%20K/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3718 | Hash Table |
 | 37 | [ Number of Good Pairs](./Array/1512.%20Number%20of%20Good%20Pairs/Readme.MD) |[Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1512 | Hash Table |
-| 38 | 
+| 38 | [1658. Minimum Operations to Reduce X to Zero](./Array/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1658 | Binary Search |
+| 39 | 
+
 
 
 </details>
