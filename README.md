@@ -290,9 +290,10 @@ This repository is a **production-ready resource** for software engineers prepar
 | 34 | [Kids With the Greatest Number of Candies](./Array/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1431 | Loop |
 | 35 | [Find Missing Elements](./Array/3731.%20Find%20Missing%20Elements/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3731 | Loop |
 | 36 | [Smallest Missing Multiple of K](./Array/3718.%20Smallest%20Missing%20Multiple%20of%20K/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3718 | Hash Table |
-| 37 | [ Number of Good Pairs](./Array/1512.%20Number%20of%20Good%20Pairs/Readme.MD) |[Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1512 | Hash Table |
+| 37 | [ Number of Good Pairs](./Array/1512.%20Number%20of%20Good%20Pairs/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1512 | Hash Table |
 | 38 | [Minimum Operations to Reduce X to Zero](./Array/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1658 | Binary Search |
-| 39 | 
+| 39 | [Smallest Index With Digit Sum Equal to Index](./Array/3550.%20Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index/Readme.MD) |   ![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3550 | Sum |
+| 40 |
 
 
 
