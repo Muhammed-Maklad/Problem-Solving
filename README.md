@@ -293,7 +293,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 37 | [ Number of Good Pairs](./Array/1512.%20Number%20of%20Good%20Pairs/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1512 | Hash Table |
 | 38 | [Minimum Operations to Reduce X to Zero](./Array/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1658 | Binary Search |
 | 39 | [Smallest Index With Digit Sum Equal to Index](./Array/3550.%20Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index/Readme.MD) |   ![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 3550 | Sum |
-| 40 |
+| 40 | [Evaluate the Bracket Pairs of a String](./Array/1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20Strin/read.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1807 | Hash Map |
+| 41 | 
 
 
 
