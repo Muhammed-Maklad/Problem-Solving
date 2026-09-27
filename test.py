@@ -1,20 +1,17 @@
-s = "(name)is(age)yearsold"
-knowledge = [["name","bob"],["age","two"]]
-knowledge = dict(knowledge)
+s = "(ed(et(oc))el)"
 
-key = ""
-current = ""
-open = 0
-while open < len(s):
-    if s[open] == "(":
-        close = s.find(")",open+1)
-        key = (s[open+1:close])
+stack = []
 
-        current +=  knowledge.get(key,"?")
-        open = close+1
+for x in s:
+
+    if x == "(":
+        current = ""
+        stack.append(current)
+
+    elif x == ")":
+        previous = stack.pop()
+        current = current[::-1]
+        current = current+previous
 
     else:
-        current += s[open]
-        open += 1
-
-print(current)
+        current += x
