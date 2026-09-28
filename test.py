@@ -1,17 +1,9 @@
-s = "(ed(et(oc))el)"
+s = "(1)+((2))+(((3)))"
 
-stack = []
+level = 0
+maxLevel = 0
 
 for x in s:
-
-    if x == "(":
-        current = ""
-        stack.append(current)
-
-    elif x == ")":
-        previous = stack.pop()
-        current = current[::-1]
-        current = current+previous
-
-    else:
-        current += x
+    level += (x == "(") - (x == ")")
+    maxLevel = max(maxLevel, level)
+print(maxLevel)
