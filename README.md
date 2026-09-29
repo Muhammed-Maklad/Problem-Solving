@@ -244,7 +244,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 22 | [Shuffle String](./String/1528.%20Shuffle%20String/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1528 | Shuffel |
 | 23 | [Reverse Substrings Between Each Pair of Parentheses](./String/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/Readme.md) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)|  1190 | STack |
 | 24 | [Maximum Nesting Depth of the Parentheses](./String/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1614 | Stack |
-| 25 | 
+| 25 | [Minimum String Length After Balanced Removals](./String/3746.%20Minimum%20String%20Length%20After%20Balanced%20Removals/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3746 | Stack |
+| 26 | 
 
 
 </details>
