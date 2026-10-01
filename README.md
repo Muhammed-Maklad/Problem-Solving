@@ -246,7 +246,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 24 | [Maximum Nesting Depth of the Parentheses](./String/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 1614 | Stack |
 | 25 | [Minimum String Length After Balanced Removals](./String/3746.%20Minimum%20String%20Length%20After%20Balanced%20Removals/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3746 | Stack |
 | 26 | [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](./String/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/Redame.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1111| Parentheses , Nesting Depth | 
-|27 | 
+|27 | [Valid Parentheses](./String/20.%20Valid%20Parentheses/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 20 | STack |
+| 28 | 
 
 
 </details>
