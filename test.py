@@ -1,23 +1,18 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        stack = []
-        for chr in s :
-            if chr in "([{":
-                stack.append(chr)
+n = 1
+open, close = 0, 0
+current = ""
+results = []
 
-            else:
-                if not stack:
-                    return False
+def generate(n, open, close, current):
+    if open == n and close == n:
+        results.append(current)
 
-                top = stack.pop()
-                if chr == ')' and top != '(':
-                    return False
-                if chr == ']' and top != '[':
-                    return False
-                if chr == '}' and top != '{':
-                    return False
-        return not stack
+    if open < n :
+        generate(n, open + 1, close, current + "(")
+
+    if close < open :
+        generate(n, open, close + 1, current + ")")
+
+
+generate(n, open, close, current)
+print(results)
