@@ -248,7 +248,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 26 | [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](./String/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/Redame.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1111| Parentheses , Nesting Depth | 
 |27 | [Valid Parentheses](./String/20.%20Valid%20Parentheses/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 20 | STack |
 | 28 | [Generate Parentheses](./String/22.%20Generate%20Parentheses/Readme.MD) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 22 | recursion , backtracking |
-| 29 |
+| 29 | [32. Longest Valid Parentheses](./String/32.%20Longest%20Valid%20Parentheses/Readme.MD) | ![Hard](https://img.shields.io/badge/-Hard-d9534f) | 32| Stack , Bracket Sequences | 
+| 30 | 
 
 
 </details>

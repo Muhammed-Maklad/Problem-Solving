@@ -1,18 +1,20 @@
-n = 1
-open, close = 0, 0
-current = ""
-results = []
+s = "(()"
 
-def generate(n, open, close, current):
-    if open == n and close == n:
-        results.append(current)
+stack = [-1]
+longest = 0
 
-    if open < n :
-        generate(n, open + 1, close, current + "(")
+for i in range(len(s)):
 
-    if close < open :
-        generate(n, open, close + 1, current + ")")
+    if s[i] == "(":
+        stack.append(i)
 
+    else:
+        stack.pop()
 
-generate(n, open, close, current)
-print(results)
+        if not stack:
+            stack.append(i)
+
+        else:
+            longest = max(longest, i - stack[-1])
+
+print(longest)
