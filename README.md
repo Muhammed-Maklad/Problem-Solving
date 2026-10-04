@@ -249,7 +249,8 @@ This repository is a **production-ready resource** for software engineers prepar
 |27 | [Valid Parentheses](./String/20.%20Valid%20Parentheses/Readme.MD) |![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 20 | STack |
 | 28 | [Generate Parentheses](./String/22.%20Generate%20Parentheses/Readme.MD) |  ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 22 | recursion , backtracking |
 | 29 | [32. Longest Valid Parentheses](./String/32.%20Longest%20Valid%20Parentheses/Readme.MD) | ![Hard](https://img.shields.io/badge/-Hard-d9534f) | 32| Stack , Bracket Sequences | 
-| 30 | 
+| 30 | [Valid Parenthesis String](./String/678.%20Valid%20Parenthesis%20String/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 678 | DP , Stack |
+| 31| 
 
 
 </details>

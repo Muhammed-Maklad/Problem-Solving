@@ -1,20 +1,33 @@
-s = "(()"
+s = "(*))"
 
-stack = [-1]
-longest = 0
+def checkValidString(s):
+    stack = []
+    star = []
 
-for i in range(len(s)):
+    for x in range(len(s)):
 
-    if s[i] == "(":
-        stack.append(i)
+        if s[x] == "(":
+            stack.append(x)
 
-    else:
-        stack.pop()
-
-        if not stack:
-            stack.append(i)
+        elif s[x] == ")":
+            if stack:
+                stack.pop()
+            elif star:
+                star.pop()
+            else:
+                return False
 
         else:
-            longest = max(longest, i - stack[-1])
+            star.append(x)
 
-print(longest)
+    while stack and star:
+        if stack[-1] < star[-1]:
+            stack.pop()
+            star.pop()
+        else:
+            return False
+
+    return len(stack) == 0
+
+
+print(checkValidString(s))
