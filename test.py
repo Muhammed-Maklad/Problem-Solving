@@ -1,33 +1,22 @@
-s = "(*))"
+s = "(()(()))"
 
-def checkValidString(s):
-    stack = []
-    star = []
+def scoreOfParentheses(s):
+    stack = [0]
 
-    for x in range(len(s)):
+    for x in s:
+        if x == "(":
+            stack.append(0)
+        else:
+            value = stack.pop()
 
-        if s[x] == "(":
-            stack.append(x)
-
-        elif s[x] == ")":
-            if stack:
-                stack.pop()
-            elif star:
-                star.pop()
+            if value == 0:
+                value = 1
             else:
-                return False
+                value = 2 * value
 
-        else:
-            star.append(x)
+            stack[-1] += value
 
-    while stack and star:
-        if stack[-1] < star[-1]:
-            stack.pop()
-            star.pop()
-        else:
-            return False
-
-    return len(stack) == 0
+    return stack[0]
 
 
-print(checkValidString(s))
+print(scoreOfParentheses(s))
