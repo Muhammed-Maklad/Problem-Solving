@@ -251,7 +251,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 29 | [Longest Valid Parentheses](./String/32.%20Longest%20Valid%20Parentheses/Readme.MD) | ![Hard](https://img.shields.io/badge/-Hard-d9534f) | 32| Stack , Bracket Sequences | 
 | 30 | [Valid Parenthesis String](./String/678.%20Valid%20Parenthesis%20String/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 678 | DP , Stack |
 | 31| [Score of Parentheses](./String/856.%20Score%20of%20Parentheses/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 856 | Stack |
-| 32| 
+| 32| [Minimum Add to Make Parentheses Valid](./String/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 921 | Stack |
+| 33 |
 
 
 </details>
