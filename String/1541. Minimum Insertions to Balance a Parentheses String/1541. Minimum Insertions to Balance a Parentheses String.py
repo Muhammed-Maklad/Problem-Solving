@@ -1,5 +1,9 @@
-class Solution:
-    def minInsertions(self, s: str) -> int:
+class Solution(object):
+    def minInsertions(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         res = 0
         need = 0
 
