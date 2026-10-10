@@ -319,7 +319,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | # | Problem | Difficulty | ID | Key Concepts |
 |---|---------|------------|----|--------------| 
 | 1 | [Binary Search](./Binary%20Search/704.%20Binary%20Search/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 704 | Classic Binary Search, Low/Mid/High Pointers, O(log n) |
-| 2| 
+| 2| [Minimum Sum of Squared Difference](./Binary%20Search/2333.%20Minimum%20Sum%20of%20Squared%20Difference/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 2333 | Binary Search , Greedy |
+| 3 | 
 </details>
 
 ### 🗄️ SQL Problems
