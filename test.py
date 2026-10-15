@@ -1,20 +1,14 @@
-num = 2
-sum = 3
+nums = [1,1]
+total = 0
+size = len(nums)
+x  = 0 
 
+for x in range(size):
+    seen = set()
+    for j in range(x, size):
+        seen.add(nums[j])
+        count = len(seen)
 
-class Solution(object):
-    def maxSumOfSquares(self, num, sum):
-        """
-        :type num: int
-        :type sum: int
-        :rtype: str
-        """
-        res = ""
-        if sum > 9 or sum < 0 :
-            return ""
+        total += count * count
 
-        for x in range(num):
-            digit = min(9,sum)
-            sum -= digit
-            res += digit
-        return res
+print(total)
