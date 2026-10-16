@@ -175,7 +175,7 @@ This repository is a **production-ready resource** for software engineers prepar
 | Category | Problems | Difficulty Range |
 |----------|:--------:|:----------------:|
 | 🗄️ SQL | 61 | Easy → Hard |
-| 🔤 String | 11 | Easy → Medium |
+| 🔤 String | 11 | Easy → Hard |
 | 📊 Array | 8 | Easy → Hard |
 | 🧠 Dynamic Programming | 1 | Easy |
 | 🔍 Binary Search | 1 | Easy |
