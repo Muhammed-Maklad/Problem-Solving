@@ -1,14 +1,14 @@
-nums = [1,1]
+nums = [37, 100]
+
+sum_arr = [sum(int(x) for x in str(num)) for num in nums]
+
+sorted_arr = sorted(nums, key=lambda num: (sum(int(x) for x in str(num)), num))
+
 total = 0
-size = len(nums)
-x  = 0 
-
-for x in range(size):
-    seen = set()
-    for j in range(x, size):
-        seen.add(nums[j])
-        count = len(seen)
-
-        total += count * count
+for i in range(len(nums)):
+    if nums[i] != sorted_arr[i]:
+        j = nums.index(sorted_arr[i])
+        nums[i], nums[j] = nums[j], nums[i]
+        total += 1
 
 print(total)
