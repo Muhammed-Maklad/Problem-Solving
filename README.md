@@ -307,7 +307,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 40 | [Evaluate the Bracket Pairs of a String](./Array/1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20Strin/read.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 1807 | Hash Map |
 | 41 | [Maximum Alternating Sum of Squares](./Array/3727.%20Maximum%20Alternating%20Sum%20of%20Squares/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3727 | Greedy , Sorting |
 | 42 | [Minimum Swaps to Sort by Digit Sum](./Array/3551.%20Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum/Readme.MD) |![Medium](https://img.shields.io/badge/-Medium-f0ad4e)| 3551 | Hash Table , Sorting |
-| 43 |
+| 43 | [Find Target Indices After Sorting Array](./Array/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c)| 2089 | Search |
+| 44 |
 
 
 </details>
