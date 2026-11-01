@@ -1,7 +1,16 @@
-nums = [1,2,5,2,3]
-target = 2
-nums = sorted(nums)
+class Solution:
+    def createGrid(self, m: int, n: int) -> list[str]:
+        gride = []
+        
+        for x in range(m):
+            if x == 0 :
+                gride.append('.'*n)
+            else:
+                gride.append('#'*(n-1)+'.')
+        
+        return gride
+            
+            
+cost = 0
+grid = [[1,2],[3,4]]
 
-res = [i+1 for i , num in enumerate(nums) if num == target]
-
-print(res)
