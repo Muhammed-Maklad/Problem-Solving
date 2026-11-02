@@ -307,7 +307,8 @@ This repository is a **production-ready resource** for software engineers prepar
 | 43 | [Find Target Indices After Sorting Array](./Array/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 2089 | Search |
 | 44 | [Create Grid With Exactly One Path](./Array/3963.%20Create%20Grid%20With%20Exactly%20One%20Path/Readme.MD) | ![Easy](https://img.shields.io/badge/-Easy-5cb85c) | 3963 | Grid, Construction, Simulation |
 | 45 | [453. Minimum Moves to Equal Array Elements](./Array/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 453 | Math |
-| 46 |
+| 46 | [Minimum Moves to Equal Array Elements II](./Array/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/Readme.MD) | ![Medium](https://img.shields.io/badge/-Medium-f0ad4e) | 462 | Math , Sorting |
+| 47 |
 
 </details>
 
